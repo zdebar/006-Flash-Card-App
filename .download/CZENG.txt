@@ -1,0 +1,3360 @@
+"ahoj (při loučení), na shledanou<br>
+<span style=color:#969696> (phr) </span><br><br>"	"bye<br>
+<span style=color:#969696> [baɪ] </span><br>"
+"ahoj, čau (při setkání)<br>
+<span style=color:#969696> (phr) </span><br><br>"	"hi<br>
+<span style=color:#969696> [haɪ] </span><br>"
+"americký<br>
+<span style=color:#969696> (adj) </span><br><br>"	"American<br>
+<span style=color:#969696> [ə'merɪkən] </span><br>"
+"anglický, angličtina<br>
+<span style=color:#969696> (adj) </span><br><br>"	"English<br>
+<span style=color:#969696> ['ɪŋglɪʃ] </span><br>"
+"Angličan<br>
+<span style=color:#969696> (n) </span><br><br>"	"English<br>
+<span style=color:#969696> ['iŋgliʃ] </span><br>"
+"auto (osobní), vůz<br>
+<span style=color:#969696> (n) </span><br><br>"	"car<br>
+<span style=color:#969696> [kɑ:(r)] </span><br>"
+"babička<br>
+<span style=color:#969696> (n) </span><br><br>"	"grandmother<br>
+<span style=color:#969696> ['grænmʌðə(r)] </span><br>"
+"blízko, poblíž<br>
+<span style=color:#969696> (prep) </span><br><br>"	"near<br>
+<span style=color:#969696> [nɪə(r)] </span><br>"
+"blog (na internetu)<br>
+<span style=color:#969696> (n) </span><br><br>"	"blog<br>
+<span style=color:#969696> [blɒg] </span><br>"
+"bohudík, naštěstí, zaplaťpánbůh,<br>
+<span style=color:#969696></span><br><br>"	"thank goodness<br>
+<span style=color:#969696> ['θæŋk 'gʊdnəs] </span><br>"
+"bratr<br>
+<span style=color:#969696> (n) </span><br><br>"	"brother<br>
+<span style=color:#969696> ['brʌðə(r)] </span><br>"
+"bratranec, sestřenice<br>
+<span style=color:#969696> (n) </span><br><br>"	"cousin<br>
+<span style=color:#969696> ['kʌzn] </span><br>"
+"centrum, střed<br>
+<span style=color:#969696> (n) </span><br><br>"	"centre<br>
+<span style=color:#969696> ['sentə(r)] </span><br>"
+"děda, dědeček<br>
+<span style=color:#969696> (n) </span><br><br>"	"grandfather<br>
+<span style=color:#969696> ['grænfɑ:ðə(r)] </span><br>"
+"děkuji<br>
+<span style=color:#969696></span><br><br>"	"thanks<br>
+<span style=color:#969696> [θæŋks] </span><br>"
+"děti<br>
+<span style=color:#969696> (n) </span><br><br>"	"children<br>
+<span style=color:#969696> ['ʧildrən] </span><br>"
+"děvče, dívka<br>
+<span style=color:#969696> (n) </span><br><br>"	"girl<br>
+<span style=color:#969696> [gɜ:l] </span><br>"
+"dívka, přítelkyně chlapce, milá, milenka<br>
+<span style=color:#969696> (n) </span><br><br>"	"girlfriend<br>
+<span style=color:#969696> ['gɜ:lfrend] </span><br>"
+"dnes<br>
+<span style=color:#969696> (adv) </span><br><br>"	"today<br>
+<span style=color:#969696> [tə'deɪ] </span><br>"
+"dobré dopoledne.<br>
+<span style=color:#969696> (phr) </span><br><br>"	"good morning<br>
+<span style=color:#969696> [gʊd 'mɔ:nɪŋ] </span><br>"
+"dobré odpoledne<br>
+<span style=color:#969696> (phr) </span><br><br>"	"good afternoon<br>
+<span style=color:#969696> [gʊd ,ɑ:ftə'nu:n] </span><br>"
+"dobré ráno<br>
+<span style=color:#969696> (phr) </span><br><br>"	"good morning<br>
+<span style=color:#969696> [gʊd 'mɔ:nɪŋ] </span><br>"
+"dobrou noc<br>
+<span style=color:#969696> (phr) </span><br><br>"	"good night<br>
+<span style=color:#969696> [,gʊd'naɪt] </span><br>"
+"dobrý (~ v něčem)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"good (~ at st)<br>
+<span style=color:#969696> [gʊd] </span><br>"
+"doma<br>
+<span style=color:#969696> (n) </span><br><br>"	"home (at home)<br>
+<span style=color:#969696> [hoʊm] </span><br>"
+"domácí úloha, domácí úkol<br>
+<span style=color:#969696> (n) </span><br><br>"	"homework<br>
+<span style=color:#969696> ['həʊmwɜ:k] </span><br>"
+"drahoušek, miláček, zlatíčko<br>
+<span style=color:#969696> (n) </span><br><br>"	"darling<br>
+<span style=color:#969696> ['dɑ:lɪŋ] </span><br>"
+"drahý, nákladný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"expensive<br>
+<span style=color:#969696> [ɪk'spensɪv] </span><br>"
+"dům, domek<br>
+<span style=color:#969696> (n) </span><br><br>"	"house<br>
+<span style=color:#969696> [haʊs] </span><br>"
+"Egypt<br>
+<span style=color:#969696> (n) </span><br><br>"	"Egypt<br>
+<span style=color:#969696> ['i:dʒɪpt] </span><br>"
+"e-mail<br>
+<span style=color:#969696> (n) </span><br><br>"	"e-mail<br>
+<span style=color:#969696> ['i:meɪl] </span><br>"
+"emailová adresa<br>
+<span style=color:#969696> (n) </span><br><br>"	"email address<br>
+<span style=color:#969696> ['i:meɪl ə'drəs] </span><br>"
+"Evropa<br>
+<span style=color:#969696> (n) </span><br><br>"	"Europe<br>
+<span style=color:#969696> ['juərəp] </span><br>"
+"francouzský<br>
+<span style=color:#969696> (adj) </span><br><br>"	"French<br>
+<span style=color:#969696> [frenʧ] </span><br>"
+"francouzština, Francouzi<br>
+<span style=color:#969696></span><br><br>"	"French<br>
+<span style=color:#969696> [frenʃ] </span><br>"
+"galerie<br>
+<span style=color:#969696> (n) </span><br><br>"	"gallery<br>
+<span style=color:#969696> ['gæləri] </span><br>"
+"hláskovat<br>
+<span style=color:#969696> (v) </span><br><br>"	"spell<br>
+<span style=color:#969696> [spel] </span><br>"
+"horký, teplý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"hot<br>
+<span style=color:#969696> [hɒt] </span><br>"
+"chladný, studený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"cold<br>
+<span style=color:#969696> [kəʊld] </span><br>"
+"Ital, Italka<br>
+<span style=color:#969696> (n) </span><br><br>"	"Italian<br>
+<span style=color:#969696> [ɪ'tæɪən] </span><br>"
+"italský, italština<br>
+<span style=color:#969696> (adj) </span><br><br>"	"Italian<br>
+<span style=color:#969696> [ɪ'tæɪən] </span><br>"
+"jaký, který, co<br>
+<span style=color:#969696> (pron) </span><br><br>"	"what<br>
+<span style=color:#969696> [wɒt] </span><br>"
+"Japonsko<br>
+<span style=color:#969696> (n) </span><br><br>"	"Japan<br>
+<span style=color:#969696> [dʒæ'pæn] </span><br>"
+"jazyk, řeč<br>
+<span style=color:#969696> (n) </span><br><br>"	"language<br>
+<span style=color:#969696> ['læŋgwɪdʒ] </span><br>"
+"je, jim (4. pád zájmena oni)<br>
+<span style=color:#969696> (pron) </span><br><br>"	"them<br>
+<span style=color:#969696> [ðem] </span><br>"
+"jeho<br>
+<span style=color:#969696> (pron) </span><br><br>"	"his<br>
+<span style=color:#969696> [hɪz] </span><br>"
+"její<br>
+<span style=color:#969696> (pron) </span><br><br>"	"her<br>
+<span style=color:#969696> [hɜ:(r)] </span><br>"
+"jídlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"meal<br>
+<span style=color:#969696> [mi:l] </span><br>"
+"jméno<br>
+<span style=color:#969696> (n) </span><br><br>"	"name<br>
+<span style=color:#969696> [neɪm] </span><br>"
+"kancelář, úřad<br>
+<span style=color:#969696> (n) </span><br><br>"	"office<br>
+<span style=color:#969696> ['ɒfɪs] </span><br>"
+"kavárna, denní bar<br>
+<span style=color:#969696> (n) </span><br><br>"	"coffee bar<br>
+<span style=color:#969696> ['kɒfɪ bɑ:(r)] </span><br>"
+"kavárna, restaurace (levná)<br>
+<span style=color:#969696> (n) </span><br><br>"	"café<br>
+<span style=color:#969696> ['kæfeɪ] </span><br>"
+"kde, kam, odkud<br>
+<span style=color:#969696> (pron) </span><br><br>"	"where<br>
+<span style=color:#969696> [weə(r)] </span><br>"
+"krásná, nádherná (popis ženy, ne muže)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"beautiful<br>
+<span style=color:#969696> ['bju:tɪfl] </span><br>"
+"křestní jméno<br>
+<span style=color:#969696> (n) </span><br><br>"	"first name<br>
+<span style=color:#969696> [fɜ:st neɪm] </span><br>"
+"laciný, levný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"cheap<br>
+<span style=color:#969696> [ʧi:p] </span><br>"
+"lékař, doktor<br>
+<span style=color:#969696> (n) </span><br><br>"	"doctor<br>
+<span style=color:#969696> ['dɒktə(r)] </span><br>"
+"lidé<br>
+<span style=color:#969696> (n) </span><br><br>"	"people<br>
+<span style=color:#969696> ['pi:pl] </span><br>"
+"Maďarsko<br>
+<span style=color:#969696> (n) </span><br><br>"	"Hungary<br>
+<span style=color:#969696> ['hʌŋgəri] </span><br>"
+"malý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"small<br>
+<span style=color:#969696> [smɔ:l] </span><br>"
+"manžel<br>
+<span style=color:#969696> (n) </span><br><br>"	"husband<br>
+<span style=color:#969696> ['hʌzbənd] </span><br>"
+"manželka<br>
+<span style=color:#969696> (n) </span><br><br>"	"wife<br>
+<span style=color:#969696> [waɪf] </span><br>"
+"matka<br>
+<span style=color:#969696> (n) </span><br><br>"	"mother<br>
+<span style=color:#969696> ['mʌðə(r)] </span><br>"
+"město (velké nebo významné)<br>
+<span style=color:#969696> (n) </span><br><br>"	"city<br>
+<span style=color:#969696> ['siti] </span><br>"
+"Mexiko<br>
+<span style=color:#969696> (n) </span><br><br>"	"Mexico<br>
+<span style=color:#969696> ['meksɪkəʊ] </span><br>"
+"mezinárodní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"international<br>
+<span style=color:#969696> [,ɪntə'næʃnəl] </span><br>"
+"milovat, mít hodně rád<br>
+<span style=color:#969696> (v) </span><br><br>"	"love<br>
+<span style=color:#969696> [lʌv] </span><br>"
+"místo<br>
+<span style=color:#969696> (n) </span><br><br>"	"place<br>
+<span style=color:#969696> [pleɪs] </span><br>"
+"mít rád, líbit se<br>
+<span style=color:#969696> (v) </span><br><br>"	"like<br>
+<span style=color:#969696> [laɪk] </span><br>"
+"mladý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"young<br>
+<span style=color:#969696> [jʌŋ] </span><br>"
+"mluvit, hovořit (hovořím např. pouze já)<br>
+<span style=color:#969696> (v) </span><br><br>"	"speak<br>
+<span style=color:#969696> [spi:k] </span><br>"
+"muzeum<br>
+<span style=color:#969696> (n) </span><br><br>"	"museum<br>
+<span style=color:#969696> [mju:'zɪəm] </span><br>"
+"nakupování<br>
+<span style=color:#969696> (n) </span><br><br>"	"shopping<br>
+<span style=color:#969696> ['ʃɒpɪŋ] </span><br>"
+"nashledanou, sbohem<br>
+<span style=color:#969696> (phr) </span><br><br>"	"goodbye<br>
+<span style=color:#969696> [,gʊd'baɪ] </span><br>"
+"nazdar, ahoj, pozdrav<br>
+<span style=color:#969696> (n) </span><br><br>"	"hello<br>
+<span style=color:#969696> [hə'ləʊ] </span><br>"
+"Německo<br>
+<span style=color:#969696> (n) </span><br><br>"	"Germany<br>
+<span style=color:#969696> ['dʒɜ:mənɪ] </span><br>"
+"neteř<br>
+<span style=color:#969696> (n) </span><br><br>"	"niece<br>
+<span style=color:#969696> [ni:s] </span><br>"
+"obchody<br>
+<span style=color:#969696> (n) </span><br><br>"	"shops<br>
+<span style=color:#969696> [ʃɒps] </span><br>"
+"obtížný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"difficult<br>
+<span style=color:#969696> ['dɪfɪkəlt] </span><br>"
+"opravdu, vskutku, skutečně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"really<br>
+<span style=color:#969696> ['riəli] </span><br>"
+"ostrý<br>
+<span style=color:#969696></span><br><br>"	"hot<br>
+<span style=color:#969696> [hɒt] </span><br>"
+"otec<br>
+<span style=color:#969696> (n) </span><br><br>"	"father<br>
+<span style=color:#969696> ['fɑ:ðə(r)] </span><br>"
+"park, sad<br>
+<span style=color:#969696> (n) </span><br><br>"	"park<br>
+<span style=color:#969696> [pɑ:k] </span><br>"
+"pátek<br>
+<span style=color:#969696> (n) </span><br><br>"	"Friday<br>
+<span style=color:#969696> ['fraɪdeɪ] </span><br>"
+"pěkný, příjemný, milý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"nice<br>
+<span style=color:#969696> [naɪs] </span><br>"
+"počasí<br>
+<span style=color:#969696> (n) </span><br><br>"	"weather<br>
+<span style=color:#969696> ['weðə(r)] </span><br>"
+"podívat se (na něco)<br>
+<span style=color:#969696> (v) </span><br><br>"	"look (at sth)<br>
+<span style=color:#969696> [lʊk] </span><br>"
+"podzemní dráha, metro<br>
+<span style=color:#969696> (n) </span><br><br>"	"underground<br>
+<span style=color:#969696> ['ʌndəgraʊnd] </span><br>"
+"pomalý, zdlouhavý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"slow<br>
+<span style=color:#969696> [sləʊ] </span><br>"
+"pondělí<br>
+<span style=color:#969696> (n) </span><br><br>"	"Monday<br>
+<span style=color:#969696> ['mʌndeɪ] </span><br>"
+"prodejce<br>
+<span style=color:#969696> (n) </span><br><br>"	"salesman<br>
+<span style=color:#969696> ['seɪlzmən] </span><br>"
+"prosím<br>
+<span style=color:#969696> (adv) </span><br><br>"	"please<br>
+<span style=color:#969696> [pli:z] </span><br>"
+"přátelský<br>
+<span style=color:#969696> (adj) </span><br><br>"	"friendly<br>
+<span style=color:#969696> ['frendli] </span><br>"
+"příjemný, milý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"lovely<br>
+<span style=color:#969696> ['lʌvlɪ] </span><br>"
+"příjmení<br>
+<span style=color:#969696> (n) </span><br><br>"	"surname<br>
+<span style=color:#969696> ['sɜ:neɪm] </span><br>"
+"příšerný, hrozný, strašný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"horrible<br>
+<span style=color:#969696> ['hɒrəbl] </span><br>"
+"přítel (dívky), milý, milenec<br>
+<span style=color:#969696> (n) </span><br><br>"	"boyfriend<br>
+<span style=color:#969696> ['bɔɪfrend] </span><br>"
+"rodiče<br>
+<span style=color:#969696> (n) </span><br><br>"	"parents (pl)<br>
+<span style=color:#969696> ['peərənts] </span><br>"
+"rodina<br>
+<span style=color:#969696> (n) </span><br><br>"	"family<br>
+<span style=color:#969696> ['fæməlɪ] </span><br>"
+"rok<br>
+<span style=color:#969696> (n) </span><br><br>"	"year<br>
+<span style=color:#969696> [jɪə(r)] </span><br>"
+"rozumět, porozumět<br>
+<span style=color:#969696> (v) </span><br><br>"	"understand<br>
+<span style=color:#969696> [,ʌndə'stænd] </span><br>"
+"rychle<br>
+<span style=color:#969696> (adv) </span><br><br>"	"fast<br>
+<span style=color:#969696> [fɑ:st] </span><br>"
+"Řím<br>
+<span style=color:#969696> (n) </span><br><br>"	"Rome<br>
+<span style=color:#969696> [rəʊm] </span><br>"
+"sestra<br>
+<span style=color:#969696> (n) </span><br><br>"	"sister<br>
+<span style=color:#969696> ['sɪstə(r)] </span><br>"
+"setkat se, potkat se<br>
+<span style=color:#969696> (v) </span><br><br>"	"meet<br>
+<span style=color:#969696> [mi:t] </span><br>"
+"slunečný, slunný, prosluněný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"sunny<br>
+<span style=color:#969696> ['sʌnɪ] </span><br>"
+"snadný, jednoduchý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"easy<br>
+<span style=color:#969696> ['i:zɪ] </span><br>"
+"starý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"old<br>
+<span style=color:#969696> [əʊld] </span><br>"
+"stejný<br>
+<span style=color:#969696> (pron) </span><br><br>"	"same<br>
+<span style=color:#969696> [seɪm] </span><br>"
+"strýc, stýček<br>
+<span style=color:#969696> (n) </span><br><br>"	"uncle<br>
+<span style=color:#969696> ['ʌŋkl] </span><br>"
+"student<br>
+<span style=color:#969696> (n) </span><br><br>"	"student<br>
+<span style=color:#969696> ['stju:dnt] </span><br>"
+"syn<br>
+<span style=color:#969696> (n) </span><br><br>"	"son<br>
+<span style=color:#969696> [sʌn] </span><br>"
+"synovec<br>
+<span style=color:#969696> (n) </span><br><br>"	"nephew<br>
+<span style=color:#969696> ['nevju:] </span><br>"
+"škola<br>
+<span style=color:#969696> (n) </span><br><br>"	"school<br>
+<span style=color:#969696> [sku:l] </span><br>"
+"Španělsko<br>
+<span style=color:#969696> (n) </span><br><br>"	"Spain<br>
+<span style=color:#969696> [speɪn] </span><br>"
+"špatný, zlý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"bad<br>
+<span style=color:#969696> [bæd] </span><br>"
+"Švýcarsko<br>
+<span style=color:#969696> (n) </span><br><br>"	"Switzerland<br>
+<span style=color:#969696> ['swɪtsələnd] </span><br>"
+"telefonní číslo<br>
+<span style=color:#969696> (n) </span><br><br>"	"phone number<br>
+<span style=color:#969696> [fəʊn 'nʌmbə(r)] </span><br>"
+"teta<br>
+<span style=color:#969696> (n) </span><br><br>"	"aunt<br>
+<span style=color:#969696> [ɑ:nt] </span><br>"
+"třída<br>
+<span style=color:#969696> (n) </span><br><br>"	"class<br>
+<span style=color:#969696> [klɑ:s] </span><br>"
+"učitel, učitelka<br>
+<span style=color:#969696> (n) </span><br><br>"	"teacher<br>
+<span style=color:#969696> ['ti:ʧə(r)] </span><br>"
+"univerzita<br>
+<span style=color:#969696> (n) </span><br><br>"	"university<br>
+<span style=color:#969696> [,ju:nɪ'vɜ:sətɪ] </span><br>"
+"v pořádku, dobře<br>
+<span style=color:#969696> (adv) </span><br><br>"	"all right<br>
+<span style=color:#969696> [ɔ:l raɪt] </span><br>"
+"věk, stáří<br>
+<span style=color:#969696> (n) </span><br><br>"	"age<br>
+<span style=color:#969696> [eɪdʒ] </span><br>"
+"velký<br>
+<span style=color:#969696> (adj) </span><br><br>"	"big<br>
+<span style=color:#969696> [bɪg] </span><br>"
+"velmi dobře<br>
+<span style=color:#969696> (adj) </span><br><br>"	"very well<br>
+<span style=color:#969696> [veri 'wel] </span><br>"
+"víkend<br>
+<span style=color:#969696> (n) </span><br><br>"	"weekend<br>
+<span style=color:#969696> [,wi:k'end] </span><br>"
+"vítejte<br>
+<span style=color:#969696></span><br><br>"	"welcome<br>
+<span style=color:#969696> ['welkəm] </span><br>"
+"vynikající, skvělý, úžasný, velký<br>
+<span style=color:#969696> (adj) </span><br><br>"	"great<br>
+<span style=color:#969696> [greɪt] </span><br>"
+"z, od<br>
+<span style=color:#969696> (prep) </span><br><br>"	"from<br>
+<span style=color:#969696> [frɒm] </span><br>"
+"zajímavý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"interesting<br>
+<span style=color:#969696> ['ɪntrəstɪŋ] </span><br>"
+"západ (světová strana)<br>
+<span style=color:#969696> (n) </span><br><br>"	"west<br>
+<span style=color:#969696> [west] </span><br>"
+"zdarma<br>
+<span style=color:#969696> (adj) </span><br><br>"	"free<br>
+<span style=color:#969696> [fri:] </span><br>"
+"známý, slavný, proslulý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"famous<br>
+<span style=color:#969696> ['feɪməs] </span><br>"
+"ženatý, vdaná za někoho<br>
+<span style=color:#969696> (adj) </span><br><br>"	"married to sb<br>
+<span style=color:#969696> ['mærid] </span><br>"
+"žít, bydlet (trvale)<br>
+<span style=color:#969696> (v) </span><br><br>"	"live<br>
+<span style=color:#969696> [lɪv] </span><br>"
+"architekt<br>
+<span style=color:#969696> (n) </span><br><br>"	"architect<br>
+<span style=color:#969696> ['ɑ:kɪtekt] </span><br>"
+"baletka, baletní tanečník<br>
+<span style=color:#969696> (n) </span><br><br>"	"ballet dancer<br>
+<span style=color:#969696> ['bæleɪ dɑ:nsə(r)] </span><br>"
+"bankéř<br>
+<span style=color:#969696> (n) </span><br><br>"	"banker<br>
+<span style=color:#969696> ['bæŋkə(r)] </span><br>"
+"Belgie<br>
+<span style=color:#969696> (n) </span><br><br>"	"Belgium<br>
+<span style=color:#969696> ['beldʒəm] </span><br>"
+"bengálský<br>
+<span style=color:#969696> (adj) </span><br><br>"	"Bengali<br>
+<span style=color:#969696> [beŋ'gɔ:li] </span><br>"
+"budova, stavba<br>
+<span style=color:#969696> (n) </span><br><br>"	"building<br>
+<span style=color:#969696> ['bɪldɪŋ] </span><br>"
+"cestovat<br>
+<span style=color:#969696> (v) </span><br><br>"	"travel<br>
+<span style=color:#969696> ['trævl] </span><br>"
+"čas, doba (kdy)<br>
+<span style=color:#969696> (n) </span><br><br>"	"time<br>
+<span style=color:#969696> [taɪm] </span><br>"
+"čtení, četba<br>
+<span style=color:#969696> (n) </span><br><br>"	"reading<br>
+<span style=color:#969696> ['ri:dɪŋ] </span><br>"
+"diskžokej, DJ<br>
+<span style=color:#969696> (n) </span><br><br>"	"disc jockey<br>
+<span style=color:#969696> ['dɪsk dʒɒki] </span><br>"
+"dívat se na (něco), sledovat<br>
+<span style=color:#969696> (v) </span><br><br>"	"watch (~ st)<br>
+<span style=color:#969696> [wɒʧ] </span><br>"
+"Francie<br>
+<span style=color:#969696> (n) </span><br><br>"	"France<br>
+<span style=color:#969696> [fra:ns] </span><br>"
+"fyzika<br>
+<span style=color:#969696> (n) </span><br><br>"	"physics<br>
+<span style=color:#969696> ['fɪzɪks] </span><br>"
+"herečka<br>
+<span style=color:#969696> (n) </span><br><br>"	"actress<br>
+<span style=color:#969696> ['æktrəs] </span><br>"
+"historie, dějiny<br>
+<span style=color:#969696> (n) </span><br><br>"	"history<br>
+<span style=color:#969696> ['hɪstri] </span><br>"
+"hlavní (město)<br>
+<span style=color:#969696> (n) </span><br><br>"	"capital<br>
+<span style=color:#969696> ['kapɪtl] </span><br>"
+"hodina (60 minut)<br>
+<span style=color:#969696> (n) </span><br><br>"	"hour<br>
+<span style=color:#969696> ['aʊə(r)] </span><br>"
+"hodiny (nástěnné)<br>
+<span style=color:#969696> (n) </span><br><br>"	"clock<br>
+<span style=color:#969696> [klɒk] </span><br>"
+"hotel<br>
+<span style=color:#969696> (n) </span><br><br>"	"hotel<br>
+<span style=color:#969696> [həʊ'tel] </span><br>"
+"hrát<br>
+<span style=color:#969696> (v) </span><br><br>"	"play<br>
+<span style=color:#969696> [pleɪ] </span><br>"
+"chodit,jít pěšky<br>
+<span style=color:#969696> (v) </span><br><br>"	"walk<br>
+<span style=color:#969696> [wo:k] </span><br>"
+"chudý, nemajetný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"poor<br>
+<span style=color:#969696> [pɔ:(r)] </span><br>"
+"Indie<br>
+<span style=color:#969696> (n) </span><br><br>"	"India<br>
+<span style=color:#969696> ['ɪndɪə] </span><br>"
+"Internet<br>
+<span style=color:#969696> (n) </span><br><br>"	"Internet<br>
+<span style=color:#969696> ['ɪntənət] </span><br>"
+"inženýr, technik<br>
+<span style=color:#969696> (n) </span><br><br>"	"engineer<br>
+<span style=color:#969696> [endʒə'nɪə(r)] </span><br>"
+"jít, chodit, jet<br>
+<span style=color:#969696> (v) </span><br><br>"	"go<br>
+<span style=color:#969696> [gəʊ] </span><br>"
+"kadeřník<br>
+<span style=color:#969696> (n) </span><br><br>"	"hairdresser<br>
+<span style=color:#969696> ['heədresə(r)] </span><br>"
+"kulečník<br>
+<span style=color:#969696> (n) </span><br><br>"	"snooker<br>
+<span style=color:#969696> ['snu:kə(r)] </span><br>"
+"letiště<br>
+<span style=color:#969696> (n) </span><br><br>"	"airport<br>
+<span style=color:#969696> ['eəpɔ:t] </span><br>"
+"matematika<br>
+<span style=color:#969696> (n) </span><br><br>"	"Maths<br>
+<span style=color:#969696> [mæθs] </span><br>"
+"město<br>
+<span style=color:#969696> (n) </span><br><br>"	"town<br>
+<span style=color:#969696> [taʊn] </span><br>"
+"mít, vlastnit<br>
+<span style=color:#969696> (v) </span><br><br>"	"have<br>
+<span style=color:#969696> [hæv] </span><br>"
+"mnoho (u počitatelných podst.jmen)<br>
+<span style=color:#969696> (pron) </span><br><br>"	"many<br>
+<span style=color:#969696> ['meni] </span><br>"
+"modelka, model, vzor<br>
+<span style=color:#969696> (n) </span><br><br>"	"model<br>
+<span style=color:#969696> [mɒdl] </span><br>"
+"navrhovat, vytvářet (dům, web stránky ap.)<br>
+<span style=color:#969696> (v) </span><br><br>"	"design<br>
+<span style=color:#969696> [dɪ'zaɪn] </span><br>"
+"navštívit<br>
+<span style=color:#969696> (v) </span><br><br>"	"visit<br>
+<span style=color:#969696> ['vɪzɪt] </span><br>"
+"někdy, občas<br>
+<span style=color:#969696> (adv) </span><br><br>"	"sometimes<br>
+<span style=color:#969696> ['sʌmtaɪmz] </span><br>"
+"nikdy (před významovým slovesem)<br>
+<span style=color:#969696> (adv) </span><br><br>"	"never<br>
+<span style=color:#969696> ['nevə(r)] </span><br>"
+"novinář, žurnalista<br>
+<span style=color:#969696> (n) </span><br><br>"	"journalist<br>
+<span style=color:#969696> ['dʒɜ:nəlɪst] </span><br>"
+"novinový článek, reportáž<br>
+<span style=color:#969696> (n) </span><br><br>"	"news story<br>
+<span style=color:#969696> [nju:z 'stɔ:ri] </span><br>"
+"noviny (tiskovina), denní tisk<br>
+<span style=color:#969696> (n) </span><br><br>"	"newspaper<br>
+<span style=color:#969696> ['nju:zpeɪpə(r)] </span><br>"
+"Nový Zéland<br>
+<span style=color:#969696> (n) </span><br><br>"	"New Zealand<br>
+<span style=color:#969696> [,nju: 'zi:lənd] </span><br>"
+"oběd<br>
+<span style=color:#969696> (n) </span><br><br>"	"lunch<br>
+<span style=color:#969696> [lʌnʧ] </span><br>"
+"peníze<br>
+<span style=color:#969696> (n) </span><br><br>"	"money<br>
+<span style=color:#969696> ['mʌni] </span><br>"
+"pilot<br>
+<span style=color:#969696> (n) </span><br><br>"	"pilot<br>
+<span style=color:#969696> ['paɪlət] </span><br>"
+"plat (stálý), mzda<br>
+<span style=color:#969696> (n) </span><br><br>"	"salary<br>
+<span style=color:#969696> ['sælərɪ] </span><br>"
+"popová hvězda<br>
+<span style=color:#969696> (n) </span><br><br>"	"pop star<br>
+<span style=color:#969696> [pɒp stɑ:(r)] </span><br>"
+"poušť<br>
+<span style=color:#969696> (n) </span><br><br>"	"desert<br>
+<span style=color:#969696> ['dezət] </span><br>"
+"práce v domácnosti, domácí práce<br>
+<span style=color:#969696> (n) </span><br><br>"	"housework<br>
+<span style=color:#969696> ['haʊswɜ:k] </span><br>"
+"pracovat<br>
+<span style=color:#969696> (v) </span><br><br>"	"work<br>
+<span style=color:#969696> [wɜ:k] </span><br>"
+"právnická firma<br>
+<span style=color:#969696> (n) </span><br><br>"	"law firm<br>
+<span style=color:#969696> [lɔ: fɜ:m] </span><br>"
+"právník, advokát<br>
+<span style=color:#969696> (n) </span><br><br>"	"lawyer<br>
+<span style=color:#969696> ['lɔ:jə(r)] </span><br>"
+"procházka, procházet se<br>
+<span style=color:#969696> (n) </span><br><br>"	"walk<br>
+<span style=color:#969696> [wɔ:k] </span><br>"
+"přesně, konkrétně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"exactly<br>
+<span style=color:#969696> [ɪg'zæktli] </span><br>"
+"přijít, přicházet, dostavit se<br>
+<span style=color:#969696> (v) </span><br><br>"	"come<br>
+<span style=color:#969696> [kʌm] </span><br>"
+"přirozený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"natural<br>
+<span style=color:#969696> ['næʧrəl] </span><br>"
+"psát, napsat<br>
+<span style=color:#969696> (v) </span><br><br>"	"write<br>
+<span style=color:#969696> [raɪt] </span><br>"
+"recepční, vrátný<br>
+<span style=color:#969696> (n) </span><br><br>"	"receptionist<br>
+<span style=color:#969696> [rɪ'sepʃənɪst] </span><br>"
+"ropná plošina<br>
+<span style=color:#969696> (n) </span><br><br>"	"oil rig<br>
+<span style=color:#969696> ['ɔɪl rɪg] </span><br>"
+"Skotsko<br>
+<span style=color:#969696> (n) </span><br><br>"	"Scotland<br>
+<span style=color:#969696> ['skɒtlənd] </span><br>"
+"slavný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"famous<br>
+<span style=color:#969696> ['feɪməs] </span><br>"
+"spěchat, chvátat<br>
+<span style=color:#969696> (v) </span><br><br>"	"hurry<br>
+<span style=color:#969696> ['hʌri] </span><br>"
+"stát (kolik něco stojí), mít cenu<br>
+<span style=color:#969696> (v) </span><br><br>"	"cost<br>
+<span style=color:#969696> [kost] </span><br>"
+"stříhat<br>
+<span style=color:#969696> (v) </span><br><br>"	"cut<br>
+<span style=color:#969696> [kʌt] </span><br>"
+"studovat<br>
+<span style=color:#969696> (v) </span><br><br>"	"study<br>
+<span style=color:#969696> ['stʌdɪ] </span><br>"
+"svět, země<br>
+<span style=color:#969696> (n) </span><br><br>"	"world<br>
+<span style=color:#969696> [wɜ:ld] </span><br>"
+"španělský<br>
+<span style=color:#969696> (adj) </span><br><br>"	"Spanish<br>
+<span style=color:#969696> ['spæniʃ] </span><br>"
+"španělština, Španělé<br>
+<span style=color:#969696> (n) </span><br><br>"	"Spanish<br>
+<span style=color:#969696> ['spæniʃ] </span><br>"
+"šťastný (mít štěstí)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"lucky<br>
+<span style=color:#969696> ['lʌkɪ] </span><br>"
+"taxikář<br>
+<span style=color:#969696> (n) </span><br><br>"	"taxi driver (AmE cab driver)<br>
+<span style=color:#969696> ['tæksi ,draɪvə(r)  (kæbdraɪvər)] </span><br>"
+"televizor<br>
+<span style=color:#969696> (n) </span><br><br>"	"TV<br>
+<span style=color:#969696> [,ti: 'vi:] </span><br>"
+"tělocvična<br>
+<span style=color:#969696> (n) </span><br><br>"	"gym (gymnasium)<br>
+<span style=color:#969696> [dʒɪm] </span><br>"
+"tlumočník, tlumočnice<br>
+<span style=color:#969696> (n) </span><br><br>"	"interpreter<br>
+<span style=color:#969696> [ɪn'tɜ:prɪtə(r)] </span><br>"
+"učit se<br>
+<span style=color:#969696> (v) </span><br><br>"	"learn<br>
+<span style=color:#969696> [lɜ:n] </span><br>"
+"ulice<br>
+<span style=color:#969696> (n) </span><br><br>"	"street (in the street)<br>
+<span style=color:#969696> [stri:t] </span><br>"
+"unavený, vyčerpaný, utahaný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"tired<br>
+<span style=color:#969696> ['taɪəd] </span><br>"
+"venku, venkovní prostředí<br>
+<span style=color:#969696></span><br><br>"	"outdoors<br>
+<span style=color:#969696> [,aʊt'dɔ:z] </span><br>"
+"vesnice<br>
+<span style=color:#969696> (n) </span><br><br>"	"village<br>
+<span style=color:#969696> ['vɪlɪdʒ] </span><br>"
+"vlasy (pomnožné)<br>
+<span style=color:#969696> (n) </span><br><br>"	"hair<br>
+<span style=color:#969696> [heə(r)] </span><br>"
+"volný čas<br>
+<span style=color:#969696> (n) </span><br><br>"	"free time<br>
+<span style=color:#969696> [fri: taɪm] </span><br>"
+"vydělat peníze<br>
+<span style=color:#969696> (v) </span><br><br>"	"earn<br>
+<span style=color:#969696> [ɜ:n] </span><br>"
+"vzrušující, napínavý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"exciting<br>
+<span style=color:#969696> [ɪk'saɪtɪŋ] </span><br>"
+"zaměstnání<br>
+<span style=color:#969696> (n) </span><br><br>"	"job<br>
+<span style=color:#969696> [dʒɒb] </span><br>"
+"zaneprázdněný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"busy<br>
+<span style=color:#969696> [bɪzi] </span><br>"
+"zdravotní sestra<br>
+<span style=color:#969696> (n) </span><br><br>"	"nurse<br>
+<span style=color:#969696> [nɜ:s] </span><br>"
+"země, stát<br>
+<span style=color:#969696> (n) </span><br><br>"	"country<br>
+<span style=color:#969696> ['kʌntri] </span><br>"
+"zoolog<br>
+<span style=color:#969696> (n) </span><br><br>"	"zoologist<br>
+<span style=color:#969696> [zu'ɒlədʒɪst] </span><br>"
+"zubař<br>
+<span style=color:#969696> (n) </span><br><br>"	"dentist<br>
+<span style=color:#969696> ['dentɪst] </span><br>"
+"zuby<br>
+<span style=color:#969696> (n) </span><br><br>"	"teeth<br>
+<span style=color:#969696> [ti:θ] </span><br>"
+"zvíře<br>
+<span style=color:#969696> (n) </span><br><br>"	"animal<br>
+<span style=color:#969696> ['ænɪməl] </span><br>"
+"badminton<br>
+<span style=color:#969696> (n) </span><br><br>"	"badminton<br>
+<span style=color:#969696> ['bædmɪntən] </span><br>"
+"běh, běhání (sport)<br>
+<span style=color:#969696> (n) </span><br><br>"	"running<br>
+<span style=color:#969696> [,rʌnɪŋ] </span><br>"
+"bilingvní, hovořící dvěma jazyky<br>
+<span style=color:#969696> (adj) </span><br><br>"	"bilingual<br>
+<span style=color:#969696> [,baɪ'lɪŋgwəl] </span><br>"
+"bosý, naboso<br>
+<span style=color:#969696> (adj) </span><br><br>"	"barefoot<br>
+<span style=color:#969696> ['beəfʊt] </span><br>"
+"byt, garsoniéra, podnájem<br>
+<span style=color:#969696> (n) </span><br><br>"	"apartment<br>
+<span style=color:#969696> [ə'pɑ:tmənt] </span><br>"
+"cizí, zahraniční<br>
+<span style=color:#969696> (adj) </span><br><br>"	"foreign<br>
+<span style=color:#969696> ['fɒrən] </span><br>"
+"cvičení<br>
+<span style=color:#969696> (n) </span><br><br>"	"exercise<br>
+<span style=color:#969696> ['eksəsaɪz] </span><br>"
+"časně, brzy<br>
+<span style=color:#969696> (adv) </span><br><br>"	"early<br>
+<span style=color:#969696> ['ɜ:lɪ] </span><br>"
+"často<br>
+<span style=color:#969696> (adv) </span><br><br>"	"often<br>
+<span style=color:#969696> ['ɒfn] </span><br>"
+"čtvrtek<br>
+<span style=color:#969696> (n) </span><br><br>"	"Thursday<br>
+<span style=color:#969696> ['θɜ:zdeɪ] </span><br>"
+"dokončit, dodělat, skončit<br>
+<span style=color:#969696> (v) </span><br><br>"	"finish<br>
+<span style=color:#969696> ['fɪnɪʃ] </span><br>"
+"dopravní situace, doprava<br>
+<span style=color:#969696> (n) </span><br><br>"	"traffic<br>
+<span style=color:#969696> ['træfɪk] </span><br>"
+"dovolená, prázdniny<br>
+<span style=color:#969696> (n) </span><br><br>"	"holiday<br>
+<span style=color:#969696> ['hɒlədeɪ] </span><br>"
+"fotbal, kopaná<br>
+<span style=color:#969696> (n) </span><br><br>"	"football (AmE soccer)<br>
+<span style=color:#969696> ['fʊtbɔ:l ('sɑ:kər)] </span><br>"
+"golf<br>
+<span style=color:#969696> (n) </span><br><br>"	"golf<br>
+<span style=color:#969696> [gɑlf] </span><br>"
+"hospoda (hovorově, brit.)<br>
+<span style=color:#969696> (n) </span><br><br>"	"pub<br>
+<span style=color:#969696> [pʌb] </span><br>"
+"hudba<br>
+<span style=color:#969696> (n) </span><br><br>"	"music<br>
+<span style=color:#969696> ['mju:zɪk] </span><br>"
+"indický<br>
+<span style=color:#969696> (adj) </span><br><br>"	"Indian<br>
+<span style=color:#969696> ['ɪndɪən] </span><br>"
+"japonský<br>
+<span style=color:#969696> (adj) </span><br><br>"	"Japanese<br>
+<span style=color:#969696> [,dʒæpə'ni:z] </span><br>"
+"jídlo na objednávku s donáškou nebo možno vzít sebou<br>
+<span style=color:#969696> (n) </span><br><br>"	"takeaway<br>
+<span style=color:#969696> ['teɪkəweɪ] </span><br>"
+"jízda na kole<br>
+<span style=color:#969696> (n) </span><br><br>"	"cycling<br>
+<span style=color:#969696> ['saɪklɪŋ] </span><br>"
+"kapela, hudební skupina<br>
+<span style=color:#969696> (n) </span><br><br>"	"band<br>
+<span style=color:#969696> [bænd] </span><br>"
+"karta, lístek<br>
+<span style=color:#969696> (n) </span><br><br>"	"card<br>
+<span style=color:#969696> [kɑ:d] </span><br>"
+"kino<br>
+<span style=color:#969696> (n) </span><br><br>"	"cinema<br>
+<span style=color:#969696> ['sɪnəmə] </span><br>"
+"kniha<br>
+<span style=color:#969696> (n) </span><br><br>"	"book<br>
+<span style=color:#969696> [bʊk] </span><br>"
+"knihkupectví<br>
+<span style=color:#969696> (n) </span><br><br>"	"bookstore<br>
+<span style=color:#969696> ['bʊ:kstɔ:r] </span><br>"
+"kuře<br>
+<span style=color:#969696> (n) </span><br><br>"	"chicken<br>
+<span style=color:#969696> ['ʧɪkɪn] </span><br>"
+"květina<br>
+<span style=color:#969696> (n) </span><br><br>"	"flower<br>
+<span style=color:#969696> ['flaʊə(r)] </span><br>"
+"lázně<br>
+<span style=color:#969696> (n) </span><br><br>"	"spa<br>
+<span style=color:#969696> [spɑ:] </span><br>"
+"lepivý, lepkavý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"sticky<br>
+<span style=color:#969696> ['stɪki] </span><br>"
+"lyžování<br>
+<span style=color:#969696> (n) </span><br><br>"	"skiing<br>
+<span style=color:#969696> ['ski:ɪŋ] </span><br>"
+"malý, maličký<br>
+<span style=color:#969696> (adj) </span><br><br>"	"little<br>
+<span style=color:#969696> ['lɪtl] </span><br>"
+"masáž<br>
+<span style=color:#969696> (n) </span><br><br>"	"massage<br>
+<span style=color:#969696> ['mæsɑ:ʒ] </span><br>"
+"mléčný karamel<br>
+<span style=color:#969696> (n) </span><br><br>"	"toffee<br>
+<span style=color:#969696> ['tɒfi] </span><br>"
+"mobilní telefon<br>
+<span style=color:#969696> (n) </span><br><br>"	"mobile phone<br>
+<span style=color:#969696> ['məʊbaɪl foʊn] </span><br>"
+"moučník, zákusek<br>
+<span style=color:#969696> (n) </span><br><br>"	"pudding<br>
+<span style=color:#969696> ['pʊdɪŋ] </span><br>"
+"neděle<br>
+<span style=color:#969696> (n) </span><br><br>"	"Sunday<br>
+<span style=color:#969696> ['sʌndei] </span><br>"
+"obchod s módním zbožím, butik<br>
+<span style=color:#969696> (n) </span><br><br>"	"boutique<br>
+<span style=color:#969696> [bu:'ti:k] </span><br>"
+"obvykle<br>
+<span style=color:#969696> (adv) </span><br><br>"	"usually<br>
+<span style=color:#969696> ['ju:ʒəlɪ] </span><br>"
+"osobní, vlastní, soukromý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"personal<br>
+<span style=color:#969696> ['pɜ:sənl] </span><br>"
+"pečeně<br>
+<span style=color:#969696> (n) </span><br><br>"	"roast<br>
+<span style=color:#969696> [rəʊst] </span><br>"
+"pečený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"roast<br>
+<span style=color:#969696> [rəʊst] </span><br>"
+"plachtění<br>
+<span style=color:#969696> (n) </span><br><br>"	"sailing<br>
+<span style=color:#969696> ['seɪlɪŋ] </span><br>"
+"plavání<br>
+<span style=color:#969696> (n) </span><br><br>"	"swimming<br>
+<span style=color:#969696> ['swɪmɪŋ] </span><br>"
+"počítač<br>
+<span style=color:#969696> (n) </span><br><br>"	"computer<br>
+<span style=color:#969696> [kəm'pju:tə(r)] </span><br>"
+"pohlednice, korespondenční lístek<br>
+<span style=color:#969696> (n) </span><br><br>"	"postcard<br>
+<span style=color:#969696> ['pəustkɑ:d] </span><br>"
+"poker<br>
+<span style=color:#969696> (n) </span><br><br>"	"poker<br>
+<span style=color:#969696> ['pəʊkə(r)] </span><br>"
+"poslouchat (~ koho/co)<br>
+<span style=color:#969696> (v) </span><br><br>"	"listen (~ to sb/st)<br>
+<span style=color:#969696> ['lɪsn] </span><br>"
+"postavit se (ze židle, z postele)<br>
+<span style=color:#969696> (v) </span><br><br>"	"get up<br>
+<span style=color:#969696> [get 'ʌp] </span><br>"
+"postel<br>
+<span style=color:#969696> (n) </span><br><br>"	"bed<br>
+<span style=color:#969696> [bed] </span><br>"
+"poštovní směrovací číslo<br>
+<span style=color:#969696> (n) </span><br><br>"	"post code<br>
+<span style=color:#969696> ['pəʊst kəʊd] </span><br>"
+"problém<br>
+<span style=color:#969696> (n) </span><br><br>"	"problem<br>
+<span style=color:#969696> ['prɒbləm] </span><br>"
+"program, plán, pořad<br>
+<span style=color:#969696> (n) </span><br><br>"	"programme<br>
+<span style=color:#969696> ['prəugræm] </span><br>"
+"promiňte, pardon (oslovení neznámé osoby)<br>
+<span style=color:#969696> (intr) </span><br><br>"	"excuse me<br>
+<span style=color:#969696> [ɪk'skju:s mi] </span><br>"
+"Prosím?, Co jste říkal?<br>
+<span style=color:#969696></span><br><br>"	"pardon?<br>
+<span style=color:#969696> ['pɑ:dn] </span><br>"
+"restaurace<br>
+<span style=color:#969696> (n) </span><br><br>"	"restaurant<br>
+<span style=color:#969696> ['restrɒnt] </span><br>"
+"sobota<br>
+<span style=color:#969696> (n) </span><br><br>"	"Saturday<br>
+<span style=color:#969696> ['sætədei] </span><br>"
+"squash<br>
+<span style=color:#969696> (n) </span><br><br>"	"squash<br>
+<span style=color:#969696> [skwɒʃ] </span><br>"
+"středa<br>
+<span style=color:#969696> (n) </span><br><br>"	"Wednesday<br>
+<span style=color:#969696> ['wenzdeɪ] </span><br>"
+"šťastný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"happy<br>
+<span style=color:#969696> ['hæpi] </span><br>"
+"tancování<br>
+<span style=color:#969696> (n) </span><br><br>"	"dancing<br>
+<span style=color:#969696> ['dɑ:nsɪŋ] </span><br>"
+"tenis<br>
+<span style=color:#969696> (n) </span><br><br>"	"tennis<br>
+<span style=color:#969696> ['tenɪs] </span><br>"
+"teplo<br>
+<span style=color:#969696> (n) </span><br><br>"	"warm<br>
+<span style=color:#969696> [wɔ:m] </span><br>"
+"teplý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"warm<br>
+<span style=color:#969696> [wɔ:m] </span><br>"
+"tráva<br>
+<span style=color:#969696> (n) </span><br><br>"	"grass<br>
+<span style=color:#969696> [grɑ:s] </span><br>"
+"Turecko<br>
+<span style=color:#969696> (n) </span><br><br>"	"Turkey<br>
+<span style=color:#969696> ['tɜ:ki] </span><br>"
+"týden<br>
+<span style=color:#969696> (n) </span><br><br>"	"week<br>
+<span style=color:#969696> [wi:k] </span><br>"
+"úterý<br>
+<span style=color:#969696> (n) </span><br><br>"	"Tuesday<br>
+<span style=color:#969696> ['tju:zdeɪ] </span><br>"
+"uvnitř, v interiéru<br>
+<span style=color:#969696> (adj) </span><br><br>"	"indoor<br>
+<span style=color:#969696> ['ɪndɔ:(r)] </span><br>"
+"užívat si, radovat se, těšit se z něčeho<br>
+<span style=color:#969696> (v) </span><br><br>"	"enjoy<br>
+<span style=color:#969696> [ɪn'dʒɔɪ] </span><br>"
+"vana, koupel<br>
+<span style=color:#969696> (n) </span><br><br>"	"bath<br>
+<span style=color:#969696> [bɑ:θ] </span><br>"
+"vařit<br>
+<span style=color:#969696> (v) </span><br><br>"	"cook<br>
+<span style=color:#969696> [kʊk] </span><br>"
+"večer<br>
+<span style=color:#969696> (n) </span><br><br>"	"evening<br>
+<span style=color:#969696> ['i:vnɪŋ] </span><br>"
+"venkov<br>
+<span style=color:#969696> (n) </span><br><br>"	"countryside<br>
+<span style=color:#969696> ['kʌntrɪsaɪd] </span><br>"
+"venkovní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"outdoor<br>
+<span style=color:#969696> ['aʊtdɔ:(r)] </span><br>"
+"vstát / vstávat (po spánku)<br>
+<span style=color:#969696> (v) </span><br><br>"	"get up<br>
+<span style=color:#969696> [get 'ʌp] </span><br>"
+"vždy; stále<br>
+<span style=color:#969696> (adv) </span><br><br>"	"always<br>
+<span style=color:#969696> ['ɔ:lweɪz] </span><br>"
+"windsurfing<br>
+<span style=color:#969696> (n) </span><br><br>"	"windsurfing<br>
+<span style=color:#969696> ['wɪndsɜ:fɪŋ] </span><br>"
+"zahradní centrum (prodejna)<br>
+<span style=color:#969696> (n) </span><br><br>"	"garden centre<br>
+<span style=color:#969696> ['gɑ:dn sentə(r)] </span><br>"
+"zpěvák, zpěvačka<br>
+<span style=color:#969696> (n) </span><br><br>"	"singer<br>
+<span style=color:#969696> ['sɪŋə(r)] </span><br>"
+"žádost, přihláška (tiskopis), formulář pro žádost<br>
+<span style=color:#969696> (n) </span><br><br>"	"application form<br>
+<span style=color:#969696> [,æplɪ'keɪʃn fɔ:m] </span><br>"
+"adresář (seznam adres)<br>
+<span style=color:#969696> (n) </span><br><br>"	"address book<br>
+<span style=color:#969696> [ə'dres bʊk] </span><br>"
+"autobusová zastávka<br>
+<span style=color:#969696> (n) </span><br><br>"	"bus stop<br>
+<span style=color:#969696> ['bʌs stɒp] </span><br>"
+"autobusové jízdné<br>
+<span style=color:#969696> (n) </span><br><br>"	"bus fare<br>
+<span style=color:#969696> [bʌs feə(r)] </span><br>"
+"báječný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"wonderful<br>
+<span style=color:#969696> ['wʌndəfl] </span><br>"
+"balkón<br>
+<span style=color:#969696> (n) </span><br><br>"	"balcony<br>
+<span style=color:#969696> ['bælkəni] </span><br>"
+"barva<br>
+<span style=color:#969696> (n) </span><br><br>"	"colour<br>
+<span style=color:#969696> ['kʌlə] </span><br>"
+"běžecká stezka<br>
+<span style=color:#969696> (n) </span><br><br>"	"jogging track<br>
+<span style=color:#969696> ['dʒɒgɪŋ træk] </span><br>"
+"bowlingová herna<br>
+<span style=color:#969696> (n) </span><br><br>"	"bowling alley<br>
+<span style=color:#969696> [,bəʊliŋ æli] </span><br>"
+"byt<br>
+<span style=color:#969696> (n) </span><br><br>"	"flat<br>
+<span style=color:#969696> [flæt] </span><br>"
+"dámská peněženka, kabelka<br>
+<span style=color:#969696> (n) </span><br><br>"	"purse<br>
+<span style=color:#969696> [pɜ:s] </span><br>"
+"dar, dárek<br>
+<span style=color:#969696> (n) </span><br><br>"	"gift<br>
+<span style=color:#969696> [gɪft] </span><br>"
+"džbánek, velká sklenice, větší hrnek<br>
+<span style=color:#969696> (n) </span><br><br>"	"mug<br>
+<span style=color:#969696> [mʌg] </span><br>"
+"fantastický, úžasný, skvělý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"fantastic<br>
+<span style=color:#969696> [fæn'tæstɪk] </span><br>"
+"host<br>
+<span style=color:#969696> (n) </span><br><br>"	"guest<br>
+<span style=color:#969696> [gest] </span><br>"
+"hrnek, šálek<br>
+<span style=color:#969696> (n) </span><br><br>"	"cup<br>
+<span style=color:#969696> [cʌp] </span><br>"
+"chodník<br>
+<span style=color:#969696> (n) </span><br><br>"	"pavement<br>
+<span style=color:#969696> ['peɪvmənt] </span><br>"
+"jídelna (místnost)<br>
+<span style=color:#969696> (n) </span><br><br>"	"dining room<br>
+<span style=color:#969696> ['daɪnɪŋ ru:m] </span><br>"
+"jíst<br>
+<span style=color:#969696> (v) </span><br><br>"	"eat<br>
+<span style=color:#969696> [i:t] </span><br>"
+"katedrála<br>
+<span style=color:#969696> (n) </span><br><br>"	"cathedral<br>
+<span style=color:#969696> [kə'θi:drəl] </span><br>"
+"kino, promítací sál (AmE)<br>
+<span style=color:#969696> (n) </span><br><br>"	"movie theater<br>
+<span style=color:#969696> ['mu:vi: 'θɪətə(r)] </span><br>"
+"klíč<br>
+<span style=color:#969696> (n) </span><br><br>"	"key<br>
+<span style=color:#969696> [ki:] </span><br>"
+"knihovna (veřejná, místnost ap.)<br>
+<span style=color:#969696> (n) </span><br><br>"	"library<br>
+<span style=color:#969696> ['laɪbrərɪ] </span><br>"
+"koberec<br>
+<span style=color:#969696> (n) </span><br><br>"	"carpet<br>
+<span style=color:#969696> ['kɑ:pɪt] </span><br>"
+"konvice (na vaření vody, i rychlovarná)<br>
+<span style=color:#969696> (n) </span><br><br>"	"kettle<br>
+<span style=color:#969696> ['ketl] </span><br>"
+"koupaliště, bazén<br>
+<span style=color:#969696> (n) </span><br><br>"	"swimming pool<br>
+<span style=color:#969696> ['swɪmɪŋ pu:l] </span><br>"
+"koupelna<br>
+<span style=color:#969696> (n) </span><br><br>"	"bathroom<br>
+<span style=color:#969696> ['bɑ:θru:m] </span><br>"
+"krb, ohniště<br>
+<span style=color:#969696> (n) </span><br><br>"	"fireplace<br>
+<span style=color:#969696> ['faɪəpleɪs] </span><br>"
+"křeslo<br>
+<span style=color:#969696> (n) </span><br><br>"	"armchair<br>
+<span style=color:#969696> ['ɑ:mʧeə(r)] </span><br>"
+"křídlo, část budovy<br>
+<span style=color:#969696> (n) </span><br><br>"	"wing<br>
+<span style=color:#969696> [wɪŋ] </span><br>"
+"kuchyně<br>
+<span style=color:#969696> (n) </span><br><br>"	"kitchen<br>
+<span style=color:#969696> ['kɪʧɪn] </span><br>"
+"lampa, svítilna<br>
+<span style=color:#969696> (n) </span><br><br>"	"lamp<br>
+<span style=color:#969696> [læmp] </span><br>"
+"lavička, sedátko, sedačka<br>
+<span style=color:#969696> (n) </span><br><br>"	"bench<br>
+<span style=color:#969696> [benʧ] </span><br>"
+"lednička (hovorově)<br>
+<span style=color:#969696> (n) </span><br><br>"	"fridge<br>
+<span style=color:#969696> [frɪdʒ] </span><br>"
+"ložnice<br>
+<span style=color:#969696> (n) </span><br><br>"	"bedroom<br>
+<span style=color:#969696> ['bedru:m] </span><br>"
+"na<br>
+<span style=color:#969696> (prep) </span><br><br>"	"on<br>
+<span style=color:#969696> [ɒn] </span><br>"
+"nábytek (bez členu)<br>
+<span style=color:#969696> (n) </span><br><br>"	"furniture (~ is)<br>
+<span style=color:#969696> ['fɜ:nɪʧər] </span><br>"
+"nad (čím), výš než (co)<br>
+<span style=color:#969696> (prep) </span><br><br>"	"above<br>
+<span style=color:#969696> [ə'bʌv] </span><br>"
+"najmout, pronajmout<br>
+<span style=color:#969696> (v) </span><br><br>"	"rent<br>
+<span style=color:#969696> [rent] </span><br>"
+"naproti, proti, protilehlý<br>
+<span style=color:#969696> (prep) </span><br><br>"	"opposite<br>
+<span style=color:#969696> ['ɒpəzɪt] </span><br>"
+"narozeniny<br>
+<span style=color:#969696> (n) </span><br><br>"	"birthday<br>
+<span style=color:#969696> ['bɜ:θdei] </span><br>"
+"návštěvník, host<br>
+<span style=color:#969696> (n) </span><br><br>"	"visitor<br>
+<span style=color:#969696> ['vɪzɪtə(r)] </span><br>"
+"obchod s lékárnou a drogedií<br>
+<span style=color:#969696> (n) </span><br><br>"	"chemist's<br>
+<span style=color:#969696> ['kemɪsts] </span><br>"
+"obrázek, obraz<br>
+<span style=color:#969696> (n) </span><br><br>"	"picture<br>
+<span style=color:#969696> ['pɪkʧə(r)] </span><br>"
+"obývací pokoj<br>
+<span style=color:#969696> (n) </span><br><br>"	"living room<br>
+<span style=color:#969696> ['lɪvɪŋ ru:m] </span><br>"
+"ohromující, úžasný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"amazing<br>
+<span style=color:#969696> [ə'meɪzɪŋ] </span><br>"
+"okno<br>
+<span style=color:#969696> (n) </span><br><br>"	"window<br>
+<span style=color:#969696> ['wɪndəʊ] </span><br>"
+"ovoce, plod<br>
+<span style=color:#969696> (n) </span><br><br>"	"fruit<br>
+<span style=color:#969696> [fru:t] </span><br>"
+"pánská peněženka, náprsní taška<br>
+<span style=color:#969696> (n) </span><br><br>"	"wallet<br>
+<span style=color:#969696> ['wɒlɪt] </span><br>"
+"pero, propiska<br>
+<span style=color:#969696> (n) </span><br><br>"	"pen<br>
+<span style=color:#969696> [pen] </span><br>"
+"pěstovat<br>
+<span style=color:#969696> (v) </span><br><br>"	"grow<br>
+<span style=color:#969696> [grəʊ] </span><br>"
+"plánovací diář, deník, kapesní kalendář<br>
+<span style=color:#969696> (n) </span><br><br>"	"diary<br>
+<span style=color:#969696> ['daɪəri] </span><br>"
+"pod<br>
+<span style=color:#969696> (prep) </span><br><br>"	"under<br>
+<span style=color:#969696> ['ʌndə(r)] </span><br>"
+"pohodlný, příjemný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"comfortable<br>
+<span style=color:#969696> ['kʌmfətəbl] </span><br>"
+"pohovka, gauč<br>
+<span style=color:#969696> (n) </span><br><br>"	"sofa (AmE couch)<br>
+<span style=color:#969696> ['səʊfə / kaʊʧ] </span><br>"
+"police, regály na knihy<br>
+<span style=color:#969696> (n) </span><br><br>"	"bookshelfs<br>
+<span style=color:#969696> ['bʊk,ʃelfz] </span><br>"
+"poštovní úřad, pošta<br>
+<span style=color:#969696> (n) </span><br><br>"	"post office<br>
+<span style=color:#969696> ['pəʊst ,ɒfɪs] </span><br>"
+"pracovní stůl, lavice<br>
+<span style=color:#969696> (n) </span><br><br>"	"desk<br>
+<span style=color:#969696> [desk] </span><br>"
+"pračka, automatická pračka<br>
+<span style=color:#969696> (n) </span><br><br>"	"washing machine<br>
+<span style=color:#969696> ['wɒʃɪŋ məʃi:n] </span><br>"
+"prezident<br>
+<span style=color:#969696> (n) </span><br><br>"	"president<br>
+<span style=color:#969696> ['prezɪdənt] </span><br>"
+"první patro<br>
+<span style=color:#969696> (n) </span><br><br>"	"first floor<br>
+<span style=color:#969696> [,fɜ:st 'flɔ:(r)] </span><br>"
+"přehrávač DVD<br>
+<span style=color:#969696> (n) </span><br><br>"	"DVD player<br>
+<span style=color:#969696> [,di: vi: 'di: 'pleɪə(r)] </span><br>"
+"příšerný, strašný, odporný (o něčem, co se nám nelíbí)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"awful<br>
+<span style=color:#969696> ['ɔ:fl] </span><br>"
+"relaxovat, odpočinout si<br>
+<span style=color:#969696> (v) </span><br><br>"	"relax<br>
+<span style=color:#969696> [rɪ'læks] </span><br>"
+"rtěnka<br>
+<span style=color:#969696> (n) </span><br><br>"	"lipstick<br>
+<span style=color:#969696> ['lɪpstɪk] </span><br>"
+"ručník<br>
+<span style=color:#969696> (n) </span><br><br>"	"towel<br>
+<span style=color:#969696> ['taʊəl] </span><br>"
+"sklenice, sklo<br>
+<span style=color:#969696> (n) </span><br><br>"	"glass<br>
+<span style=color:#969696> [glɑ:s] </span><br>"
+"spát<br>
+<span style=color:#969696> (v) </span><br><br>"	"sleep<br>
+<span style=color:#969696> [sli:p] </span><br>"
+"sporák, vařič<br>
+<span style=color:#969696> (n) </span><br><br>"	"cooker<br>
+<span style=color:#969696> ['kʊkə(r)] </span><br>"
+"sprcha<br>
+<span style=color:#969696> (n) </span><br><br>"	"shower<br>
+<span style=color:#969696> ['ʃaʊə(r)] </span><br>"
+"strašný, hrozný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"terrible<br>
+<span style=color:#969696> ['terəbl] </span><br>"
+"strom<br>
+<span style=color:#969696> (n) </span><br><br>"	"tree<br>
+<span style=color:#969696> [tri:] </span><br>"
+"stůl (jídelní ap.)<br>
+<span style=color:#969696> (n) </span><br><br>"	"table<br>
+<span style=color:#969696> ['teɪbl] </span><br>"
+"svatba<br>
+<span style=color:#969696> (n) </span><br><br>"	"wedding<br>
+<span style=color:#969696> ['wedɪŋ] </span><br>"
+"světově proslulý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"world-famous<br>
+<span style=color:#969696> [,wɜ:ld 'feɪməs] </span><br>"
+"šaty, oděvy, oblečení<br>
+<span style=color:#969696> (n) </span><br><br>"	"clothes<br>
+<span style=color:#969696> [kləʊðz] </span><br>"
+"šéf, vedoucí<br>
+<span style=color:#969696> (n) </span><br><br>"	"boss<br>
+<span style=color:#969696> [bɒs] </span><br>"
+"talíř, miska, tác<br>
+<span style=color:#969696> (n) </span><br><br>"	"plate<br>
+<span style=color:#969696> [pleɪt] </span><br>"
+"telefon<br>
+<span style=color:#969696> (n) </span><br><br>"	"phone<br>
+<span style=color:#969696> [fəʊn] </span><br>"
+"tenisový kurt<br>
+<span style=color:#969696> (n) </span><br><br>"	"tennis court<br>
+<span style=color:#969696> ['tenɪs kɔ:t] </span><br>"
+"trouba<br>
+<span style=color:#969696> (n) </span><br><br>"	"oven<br>
+<span style=color:#969696> ['ʌvn] </span><br>"
+"třetí patro<br>
+<span style=color:#969696> (n) </span><br><br>"	"third floor<br>
+<span style=color:#969696> [θɜ:d flɔ:(r)] </span><br>"
+"úžasný, fantastický, skvostný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"fabulous<br>
+<span style=color:#969696> ['fæbjələs] </span><br>"
+"v, ve<br>
+<span style=color:#969696> (prep) </span><br><br>"	"in<br>
+<span style=color:#969696> [ɪn] </span><br>"
+"večeře<br>
+<span style=color:#969696> (n) </span><br><br>"	"dinner<br>
+<span style=color:#969696> ['dɪnə(r)] </span><br>"
+"večírek, party<br>
+<span style=color:#969696> (n) </span><br><br>"	"party<br>
+<span style=color:#969696> ['pɑ:tɪ] </span><br>"
+"vedle něčeho<br>
+<span style=color:#969696> (prep) </span><br><br>"	"next to sth<br>
+<span style=color:#969696> ['nekst tu:] </span><br>"
+"venku, ven<br>
+<span style=color:#969696> (n) </span><br><br>"	"outside<br>
+<span style=color:#969696> [,aʊt'saɪd] </span><br>"
+"veřejnost<br>
+<span style=color:#969696> (n) </span><br><br>"	"public<br>
+<span style=color:#969696> ['pʌblɪk] </span><br>"
+"víno (alkoholický nápoj)<br>
+<span style=color:#969696> (n) </span><br><br>"	"wine<br>
+<span style=color:#969696> [wain] </span><br>"
+"vládní budova<br>
+<span style=color:#969696> (n) </span><br><br>"	"government building<br>
+<span style=color:#969696> ['gʌvənmənt 'bɪldɪŋ] </span><br>"
+"vybrat, zvolit<br>
+<span style=color:#969696> (v) </span><br><br>"	"choose<br>
+<span style=color:#969696> [ʧu:z] </span><br>"
+"vynikající, výborný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"excellent<br>
+<span style=color:#969696> ['eksələnt] </span><br>"
+"výtah (AmE)<br>
+<span style=color:#969696> (n) </span><br><br>"	"elevator<br>
+<span style=color:#969696> ['elɪveɪtə(r)] </span><br>"
+"zahradník<br>
+<span style=color:#969696> (n) </span><br><br>"	"gardener<br>
+<span style=color:#969696> ['gɑ:dnə(r)] </span><br>"
+"závěsy<br>
+<span style=color:#969696> (n) </span><br><br>"	"curtains<br>
+<span style=color:#969696> ['kɜ:tnz] </span><br>"
+"zeď, stěna<br>
+<span style=color:#969696> (n) </span><br><br>"	"wall<br>
+<span style=color:#969696> [wɔ:l] </span><br>"
+"zelenina<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"vegetables<br>
+<span style=color:#969696> [vedʒtəblz] </span><br>"
+"zrcadlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"mirror<br>
+<span style=color:#969696> ['mɪrə(r)] </span><br>"
+"benzín, palivo<br>
+<span style=color:#969696> (n) </span><br><br>"	"petrol<br>
+<span style=color:#969696> ['petrəl] </span><br>"
+"bohatý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"rich<br>
+<span style=color:#969696> [rɪʧ] </span><br>"
+"brýle (dioptrické)<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"glasses (pl)<br>
+<span style=color:#969696> ['glɑ:sɪz] </span><br>"
+"cello, violoncello<br>
+<span style=color:#969696> (n) </span><br><br>"	"cello<br>
+<span style=color:#969696> ['ʧeloʊ] </span><br>"
+"cizí jazyky<br>
+<span style=color:#969696> (n) </span><br><br>"	"foreign language<br>
+<span style=color:#969696> [,fɒrən 'læŋgwɪdʒ] </span><br>"
+"country a western<br>
+<span style=color:#969696> (n) </span><br><br>"	"country and western<br>
+<span style=color:#969696> ['kʌntri ənd 'westən] </span><br>"
+"čínský<br>
+<span style=color:#969696> (adj) </span><br><br>"	"Chinese<br>
+<span style=color:#969696> [,ʧaɪ'ni:z] </span><br>"
+"dítě<br>
+<span style=color:#969696> (n) </span><br><br>"	"child<br>
+<span style=color:#969696> [ʧaɪld] </span><br>"
+"důležitý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"important<br>
+<span style=color:#969696> [ɪm'pɔ:tnt] </span><br>"
+"džíny<br>
+<span style=color:#969696> (n) </span><br><br>"	"jeans (pl)<br>
+<span style=color:#969696> [dʒi:nz] </span><br>"
+"housle<br>
+<span style=color:#969696> (n) </span><br><br>"	"violin<br>
+<span style=color:#969696> [,vaɪə'lɪn] </span><br>"
+"houslista<br>
+<span style=color:#969696> (n) </span><br><br>"	"violinist<br>
+<span style=color:#969696> [,vaɪə'linist] </span><br>"
+"hrdina<br>
+<span style=color:#969696> (n) </span><br><br>"	"hero<br>
+<span style=color:#969696> ['hɪərəʊ] </span><br>"
+"hudební nástroj<br>
+<span style=color:#969696> (n) </span><br><br>"	"musical instrument<br>
+<span style=color:#969696> [,mju:zɪkl 'ɪnstrəmənt] </span><br>"
+"chemické čištění<br>
+<span style=color:#969696> (n) </span><br><br>"	"dry-cleaning<br>
+<span style=color:#969696> [,draɪ 'kli:nɪŋ] </span><br>"
+"inzerát (jednotlivý), reklama<br>
+<span style=color:#969696> (n) </span><br><br>"	"advertisement<br>
+<span style=color:#969696> [əd'vɜ:tɪsmənt] </span><br>"
+"jet, jezdit (na něčem obkročmo - kůň,kolo)<br>
+<span style=color:#969696> (v) </span><br><br>"	"ride<br>
+<span style=color:#969696> [raɪd] </span><br>"
+"jezdit na skateboardu<br>
+<span style=color:#969696> (v) </span><br><br>"	"skateboard<br>
+<span style=color:#969696> ['skeɪtbɔ:d] </span><br>"
+"jídelní lístek, menu<br>
+<span style=color:#969696> (n) </span><br><br>"	"menu<br>
+<span style=color:#969696> ['menju:] </span><br>"
+"jízdenka, lístek, vstupenka<br>
+<span style=color:#969696> (n) </span><br><br>"	"ticket<br>
+<span style=color:#969696> ['tɪkɪt] </span><br>"
+"jízdní kolo (hovorově)<br>
+<span style=color:#969696> (n) </span><br><br>"	"bike<br>
+<span style=color:#969696> [baɪk] </span><br>"
+"klasická, vážná hudba<br>
+<span style=color:#969696> (n) </span><br><br>"	"classical music<br>
+<span style=color:#969696> ['klæsɪkl 'mju:zɪk] </span><br>"
+"koncert (hudební)<br>
+<span style=color:#969696> (n) </span><br><br>"	"concert<br>
+<span style=color:#969696> ['kɒnsət] </span><br>"
+"kravata, vázanka<br>
+<span style=color:#969696> (n) </span><br><br>"	"tie<br>
+<span style=color:#969696> [taɪ] </span><br>"
+"kreditní karta<br>
+<span style=color:#969696> (n) </span><br><br>"	"credit card<br>
+<span style=color:#969696> ['kredɪt kɑ:d] </span><br>"
+"kytara<br>
+<span style=color:#969696> (n) </span><br><br>"	"guitar<br>
+<span style=color:#969696> [gɪ'tɑ:(r)] </span><br>"
+"laskavost (přátelská služba)<br>
+<span style=color:#969696> (n) </span><br><br>"	"favour<br>
+<span style=color:#969696> ['feɪvə(r)] </span><br>"
+"letět, létat<br>
+<span style=color:#969696> (v) </span><br><br>"	"fly<br>
+<span style=color:#969696> [flaɪ] </span><br>"
+"malba, obraz, malířství<br>
+<span style=color:#969696> (n) </span><br><br>"	"painting<br>
+<span style=color:#969696> ['peɪntɪŋ] </span><br>"
+"malíř, malířka<br>
+<span style=color:#969696> (n) </span><br><br>"	"painter<br>
+<span style=color:#969696> ['peɪntə(r)] </span><br>"
+"metr<br>
+<span style=color:#969696> (n) </span><br><br>"	"metre<br>
+<span style=color:#969696> ['mi:tə(r)] </span><br>"
+"mexický<br>
+<span style=color:#969696> (n) </span><br><br>"	"Mexican<br>
+<span style=color:#969696> ['meksɪkən] </span><br>"
+"Mexičan<br>
+<span style=color:#969696> (n) </span><br><br>"	"Mexican<br>
+<span style=color:#969696> ['meksɪkən] </span><br>"
+"mluvit, hovořit, povídat si<br>
+<span style=color:#969696> (v) </span><br><br>"	"talk<br>
+<span style=color:#969696> [tɔ:k] </span><br>"
+"moci si něco dovolit si (finančně)<br>
+<span style=color:#969696> (v) </span><br><br>"	"afford<br>
+<span style=color:#969696> [ə'fɔ:d] </span><br>"
+"motorka, motocykl<br>
+<span style=color:#969696> (n) </span><br><br>"	"motorbike<br>
+<span style=color:#969696> ['məʊtəbaɪk] </span><br>"
+"někoho někam odvést<br>
+<span style=color:#969696> (v) </span><br><br>"	"drive<br>
+<span style=color:#969696> [draɪv] </span><br>"
+"někoho svézt<br>
+<span style=color:#969696> (v) </span><br><br>"	"lift<br>
+<span style=color:#969696> [lɪft] </span><br>"
+"nezávislý, samostatný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"independent<br>
+<span style=color:#969696> [,indɪ'pendənt] </span><br>"
+"nosit, mít na sobě<br>
+<span style=color:#969696> (v) </span><br><br>"	"wear (sth)<br>
+<span style=color:#969696> [weə(r)] </span><br>"
+"obchod (prodejna)<br>
+<span style=color:#969696> (n) </span><br><br>"	"shop<br>
+<span style=color:#969696> [ʃɒp] </span><br>"
+"obchod, podnikání<br>
+<span style=color:#969696> (n) </span><br><br>"	"business<br>
+<span style=color:#969696> ['bɪznəs] </span><br>"
+"oblek; kostým (dámský)<br>
+<span style=color:#969696> (n) </span><br><br>"	"suit<br>
+<span style=color:#969696> [su:t] </span><br>"
+"odeslat, poslat<br>
+<span style=color:#969696> (v) </span><br><br>"	"send<br>
+<span style=color:#969696> [send] </span><br>"
+"okamžik, chvíle, chvilka<br>
+<span style=color:#969696> (n) </span><br><br>"	"moment<br>
+<span style=color:#969696> ['məʊmənt] </span><br>"
+"otevřít<br>
+<span style=color:#969696> (v) </span><br><br>"	"open<br>
+<span style=color:#969696> ['əʊpən] </span><br>"
+"otočit se zpět<br>
+<span style=color:#969696> (v) </span><br><br>"	"turn back<br>
+<span style=color:#969696> [tɜ:n 'bæk] </span><br>"
+"pianista, klavírista<br>
+<span style=color:#969696> (n) </span><br><br>"	"pianist<br>
+<span style=color:#969696> ['pɪənɪst] </span><br>"
+"plakat<br>
+<span style=color:#969696> (v) </span><br><br>"	"cry<br>
+<span style=color:#969696> [kraɪ] </span><br>"
+"platit, zaplatit<br>
+<span style=color:#969696> (v) </span><br><br>"	"pay<br>
+<span style=color:#969696> [peɪ] </span><br>"
+"poslat poštou<br>
+<span style=color:#969696> (v) </span><br><br>"	"post<br>
+<span style=color:#969696> [pəʊst] </span><br>"
+"profesionálně, odborně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"professionally<br>
+<span style=color:#969696> [prə'feʃənəli] </span><br>"
+"příležitost<br>
+<span style=color:#969696> (n) </span><br><br>"	"occasion<br>
+<span style=color:#969696> [ə'keɪʒn] </span><br>"
+"půjčit si, vypůjčit si<br>
+<span style=color:#969696> (v) </span><br><br>"	"borrow<br>
+<span style=color:#969696> ['bɒroʊ] </span><br>"
+"pyšný (~ na, ~, že)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"proud (~ of, ~ that)<br>
+<span style=color:#969696> [praʊd] </span><br>"
+"rychlost<br>
+<span style=color:#969696> (n) </span><br><br>"	"speed<br>
+<span style=color:#969696> [spi:d] </span><br>"
+"řídit, jet (v autě)<br>
+<span style=color:#969696> (v) </span><br><br>"	"drive<br>
+<span style=color:#969696> [draɪv] </span><br>"
+"sedět, sednout si<br>
+<span style=color:#969696> (v) </span><br><br>"	"sit<br>
+<span style=color:#969696> [sɪt] </span><br>"
+"sendvič<br>
+<span style=color:#969696> (n) </span><br><br>"	"sandwich<br>
+<span style=color:#969696> ['sænwɪdʒ] </span><br>"
+"sentimentální, dojemný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"sentimental<br>
+<span style=color:#969696> [,sentɪ'mentl] </span><br>"
+"skočit, skákat<br>
+<span style=color:#969696> (v) </span><br><br>"	"jump<br>
+<span style=color:#969696> [dʒʌmp] </span><br>"
+"stanice, zastávka, nádraží<br>
+<span style=color:#969696> (n) </span><br><br>"	"station<br>
+<span style=color:#969696> ['steɪʃn] </span><br>"
+"starat se o, pečovat o (fráz.sloveso)<br>
+<span style=color:#969696> (v) </span><br><br>"	"look after sb/st<br>
+<span style=color:#969696> [lʊk 'ɑ:ftə(r)] </span><br>"
+"středisko, resort (lyžařské středisko)<br>
+<span style=color:#969696> (n) </span><br><br>"	"resort (ski resort)<br>
+<span style=color:#969696> [rɪ'zɔ:t] </span><br>"
+"světlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"light<br>
+<span style=color:#969696> [laɪt] </span><br>"
+"sýr<br>
+<span style=color:#969696> (n) </span><br><br>"	"cheese<br>
+<span style=color:#969696> [ʧi:z] </span><br>"
+"talentovaný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"talented<br>
+<span style=color:#969696> ['tæləntɪd] </span><br>"
+"taška, sáček, batoh<br>
+<span style=color:#969696> (n) </span><br><br>"	"bag<br>
+<span style=color:#969696> [bæg] </span><br>"
+"televize<br>
+<span style=color:#969696> (n) </span><br><br>"	"television<br>
+<span style=color:#969696> ['telɪvɪʒn] </span><br>"
+"textová zpráva, SMS<br>
+<span style=color:#969696> (n) </span><br><br>"	"text message<br>
+<span style=color:#969696> [tekst 'mesɪdʒ] </span><br>"
+"těžký, obtížný, nesnadný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"hard<br>
+<span style=color:#969696> [hɑ:d] </span><br>"
+"tvrdě pracující<br>
+<span style=color:#969696> (adj) </span><br><br>"	"hard-working<br>
+<span style=color:#969696> [,hɑ:d'wɜ:kɪŋ] </span><br>"
+"umění<br>
+<span style=color:#969696> (n) </span><br><br>"	"art<br>
+<span style=color:#969696> [ɑ:t] </span><br>"
+"určitě, rozhodně, jistě<br>
+<span style=color:#969696> (adv) </span><br><br>"	"certainly<br>
+<span style=color:#969696> ['sɜ:tnlɪ] </span><br>"
+"úspěch, zdar<br>
+<span style=color:#969696> (n) </span><br><br>"	"success<br>
+<span style=color:#969696> [sək'ses] </span><br>"
+"uspět<br>
+<span style=color:#969696> (v) </span><br><br>"	"succeed<br>
+<span style=color:#969696> [sək'si:d] </span><br>"
+"vášnivý, nadšený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"passionate<br>
+<span style=color:#969696> ['pəʃənət] </span><br>"
+"vidět<br>
+<span style=color:#969696> (v) </span><br><br>"	"see<br>
+<span style=color:#969696> [si:] </span><br>"
+"voda, vodní plocha<br>
+<span style=color:#969696> (n) </span><br><br>"	"water<br>
+<span style=color:#969696> ['wɔ:tə(r)] </span><br>"
+"zajímat se o něco<br>
+<span style=color:#969696> (adj) </span><br><br>"	"interested (be interested in st)<br>
+<span style=color:#969696> ['intrestɪd] </span><br>"
+"zastavit<br>
+<span style=color:#969696> (v) </span><br><br>"	"stop<br>
+<span style=color:#969696> [stɒp] </span><br>"
+"zázračné dítě, (mladý) génius<br>
+<span style=color:#969696> (n) </span><br><br>"	"prodigy<br>
+<span style=color:#969696> ['prɒdədʒɪ] </span><br>"
+"zmrzlina<br>
+<span style=color:#969696> (n) </span><br><br>"	"ice cream<br>
+<span style=color:#969696> ['aɪs kri:m] </span><br>"
+"zpáteční lístek<br>
+<span style=color:#969696> (n) </span><br><br>"	"return ticket<br>
+<span style=color:#969696> [rɪ'tɜ:n 'tɪkɪt] </span><br>"
+"žena v domácnosti, hospodyně<br>
+<span style=color:#969696> (n) </span><br><br>"	"housewife (mn.č. housewives)<br>
+<span style=color:#969696> ['haʊswaɪf  / 'haʊswaɪvz] </span><br>"
+"cena, odměna, ocenění<br>
+<span style=color:#969696> (n) </span><br><br>"	"award<br>
+<span style=color:#969696> [ə'wɔ:d] </span><br>"
+"dárek, dar<br>
+<span style=color:#969696> (n) </span><br><br>"	"present<br>
+<span style=color:#969696> ['preznt] </span><br>"
+"dát, dávat,<br>
+<span style=color:#969696> (v) </span><br><br>"	"give<br>
+<span style=color:#969696> [gɪv] </span><br>"
+"datum<br>
+<span style=color:#969696> (n) </span><br><br>"	"date<br>
+<span style=color:#969696> [deɪt] </span><br>"
+"dcera<br>
+<span style=color:#969696> (n) </span><br><br>"	"daughter<br>
+<span style=color:#969696> ['dɔ:tə(r)] </span><br>"
+"dělat, tvořit, udělat<br>
+<span style=color:#969696> (v) </span><br><br>"	"make<br>
+<span style=color:#969696> [meɪk] </span><br>"
+"déle, delší<br>
+<span style=color:#969696> (adj) </span><br><br>"	"longer<br>
+<span style=color:#969696> ['lɒngə(r)] </span><br>"
+"Den sv. Valentýna<br>
+<span style=color:#969696> (n) </span><br><br>"	"Valentine's Day<br>
+<span style=color:#969696> ['væləntaɪnz deɪ] </span><br>"
+"dětství<br>
+<span style=color:#969696> (n) </span><br><br>"	"childhood<br>
+<span style=color:#969696> ['ʧaɪldhʊd] </span><br>"
+"dolar<br>
+<span style=color:#969696> (n) </span><br><br>"	"dollar<br>
+<span style=color:#969696> ['dɒlə(r)] </span><br>"
+"dost, dostatek<br>
+<span style=color:#969696> (adv) </span><br><br>"	"enough<br>
+<span style=color:#969696> [ɪ'nʌf] </span><br>"
+"dostat, přijmout, obdržet<br>
+<span style=color:#969696> (v) </span><br><br>"	"receive<br>
+<span style=color:#969696> [rɪ'si:v] </span><br>"
+"dotazovat se, dělat rozhovor<br>
+<span style=color:#969696> (v) </span><br><br>"	"interview<br>
+<span style=color:#969696> ['ɪntəvju:] </span><br>"
+"drama, divadelní hra<br>
+<span style=color:#969696> (n) </span><br><br>"	"drama<br>
+<span style=color:#969696> ['drɑ:mə] </span><br>"
+"dyslektický<br>
+<span style=color:#969696> (adj) </span><br><br>"	"dyslexic<br>
+<span style=color:#969696> [dɪs'leksɪk] </span><br>"
+"emaily<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"emails<br>
+<span style=color:#969696> ['i:meɪlz] </span><br>"
+"exportovat, vyvážet<br>
+<span style=color:#969696> (v) </span><br><br>"	"export<br>
+<span style=color:#969696> ['ekspɔ:t] </span><br>"
+"film<br>
+<span style=color:#969696> (n) </span><br><br>"	"film<br>
+<span style=color:#969696> [fɪlm] </span><br>"
+"fotbalový tým<br>
+<span style=color:#969696> (n) </span><br><br>"	"football team<br>
+<span style=color:#969696> ['fʊtbɔ:l ti:m] </span><br>"
+"charita, dobročinnost, štědrost<br>
+<span style=color:#969696> (n) </span><br><br>"	"charity<br>
+<span style=color:#969696> ['ʧærətɪ] </span><br>"
+"chování (lidí, zvířat)<br>
+<span style=color:#969696> (n) </span><br><br>"	"behaviour<br>
+<span style=color:#969696> [bɪ'heɪvjə(r)] </span><br>"
+"chytit, chytat<br>
+<span style=color:#969696> (v) </span><br><br>"	"catch<br>
+<span style=color:#969696> [kæʧ] </span><br>"
+"chytrý, bystrý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"clever<br>
+<span style=color:#969696> ['klevə(r)] </span><br>"
+"konstruktér/ka, návrhář/ka<br>
+<span style=color:#969696> (n) </span><br><br>"	"designer<br>
+<span style=color:#969696> [dɪ'zaɪnə(r)] </span><br>"
+"legrační, komický, zábavný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"funny<br>
+<span style=color:#969696> ['fani] </span><br>"
+"loďka, člun, malá loď<br>
+<span style=color:#969696> (n) </span><br><br>"	"boat<br>
+<span style=color:#969696> [boʊt] </span><br>"
+"loni, minulý rok<br>
+<span style=color:#969696></span><br><br>"	"last year<br>
+<span style=color:#969696> [lɑ:st jɜ:(r)] </span><br>"
+"loterie, sázková hra<br>
+<span style=color:#969696> (n) </span><br><br>"	"lottery<br>
+<span style=color:#969696> ['lɒtərɪ] </span><br>"
+"má to význam, záleží na tom<br>
+<span style=color:#969696> (v) </span><br><br>"	"matter<br>
+<span style=color:#969696> ['mætə(r)] </span><br>"
+"maratón<br>
+<span style=color:#969696> (n) </span><br><br>"	"marathon<br>
+<span style=color:#969696> ['mærəθən] </span><br>"
+"měsíc (kalendářní)<br>
+<span style=color:#969696> (n) </span><br><br>"	"month<br>
+<span style=color:#969696> [mʌnθ] </span><br>"
+"miliardář<br>
+<span style=color:#969696> (n) </span><br><br>"	"billionaire<br>
+<span style=color:#969696> [,bɪljə'neə(r)] </span><br>"
+"milionář<br>
+<span style=color:#969696> (n) </span><br><br>"	"millionaire<br>
+<span style=color:#969696> [,mɪljə'neə(r)] </span><br>"
+"minuta, chvilka<br>
+<span style=color:#969696> (n) </span><br><br>"	"minute<br>
+<span style=color:#969696> ['mɪnɪt] </span><br>"
+"místní, zdejší (tisk, zastupitelstvo ap.)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"local<br>
+<span style=color:#969696> ['ləʊkl] </span><br>"
+"mnoho, hodně<br>
+<span style=color:#969696> (det) </span><br><br>"	"much<br>
+<span style=color:#969696> [maʧ] </span><br>"
+"mnoho, spousta, hodně (čeho)<br>
+<span style=color:#969696> (adv) </span><br><br>"	"lots (of sth)<br>
+<span style=color:#969696> [lɒts] </span><br>"
+"módní přehlídka<br>
+<span style=color:#969696> (n) </span><br><br>"	"fashion show<br>
+<span style=color:#969696> ['fæʃn ʃəʊ] </span><br>"
+"nadšený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"excited<br>
+<span style=color:#969696> [ɪk'saɪtɪd] </span><br>"
+"národnost<br>
+<span style=color:#969696> (n) </span><br><br>"	"nationality<br>
+<span style=color:#969696> [,næʃə'nælətɪ] </span><br>"
+"narozen<br>
+<span style=color:#969696> (adj) </span><br><br>"	"born<br>
+<span style=color:#969696> [bɔ:n] </span><br>"
+"naštvaný, rozlobený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"annoyed<br>
+<span style=color:#969696> [ə'nɔɪd] </span><br>"
+"nejbohatší<br>
+<span style=color:#969696> (adj) </span><br><br>"	"the richest<br>
+<span style=color:#969696> [ðə 'rɪʧɪst] </span><br>"
+"nejlepší přítel<br>
+<span style=color:#969696> (n) </span><br><br>"	"best friend<br>
+<span style=color:#969696> [best frend] </span><br>"
+"nic<br>
+<span style=color:#969696> (pron) </span><br><br>"	"nothing<br>
+<span style=color:#969696> ['nʌθɪŋ] </span><br>"
+"obchodník<br>
+<span style=color:#969696> (n) </span><br><br>"	"businessman<br>
+<span style=color:#969696> ['bɪznɪsmən] </span><br>"
+"odejít, odjet, odletět, nechat, opustit<br>
+<span style=color:#969696> (v) </span><br><br>"	"leave<br>
+<span style=color:#969696> [li:v] </span><br>"
+"odpočinek, siesta<br>
+<span style=color:#969696> (n) </span><br><br>"	"siesta<br>
+<span style=color:#969696> [si'estə] </span><br>"
+"opět, zase, znovu<br>
+<span style=color:#969696> (adv) </span><br><br>"	"again<br>
+<span style=color:#969696> [ə'geɪn] </span><br>"
+"opožděný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"late<br>
+<span style=color:#969696> [leit] </span><br>"
+"pán, muž, džentlmen<br>
+<span style=color:#969696> (n) </span><br><br>"	"gentleman<br>
+<span style=color:#969696> ['dʒentlmən] </span><br>"
+"plný (~ něčeho)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"full (~ of st)<br>
+<span style=color:#969696> [fʊl] </span><br>"
+"podnikatel, provozovatel<br>
+<span style=color:#969696> (n) </span><br><br>"	"entrepreneur<br>
+<span style=color:#969696> [,ɒntrəprə'nɜ:(r)] </span><br>"
+"pomoci, pomáhat<br>
+<span style=color:#969696> (v) </span><br><br>"	"help<br>
+<span style=color:#969696> [help] </span><br>"
+"pozdě<br>
+<span style=color:#969696> (adv) </span><br><br>"	"late<br>
+<span style=color:#969696> [leɪt] </span><br>"
+"praprarodiče<br>
+<span style=color:#969696> (n) </span><br><br>"	"great-grandparents<br>
+<span style=color:#969696> [greɪt 'grænpeərənts] </span><br>"
+"problémy<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"problems<br>
+<span style=color:#969696> ['prɒbləmz] </span><br>"
+"první<br>
+<span style=color:#969696> (num) </span><br><br>"	"first<br>
+<span style=color:#969696> ['fɜ:st] </span><br>"
+"před, před tím než, dříve než (časově)<br>
+<span style=color:#969696> (conj) </span><br><br>"	"before<br>
+<span style=color:#969696> [bɪ'fɔ:r] </span><br>"
+"přednáška (univerzitní)<br>
+<span style=color:#969696> (n) </span><br><br>"	"lecture<br>
+<span style=color:#969696> ['lekʧə(r)] </span><br>"
+"přijet, přijít, dorazit<br>
+<span style=color:#969696> (v) </span><br><br>"	"arrive<br>
+<span style=color:#969696> [ə'raɪv] </span><br>"
+"přítel, kamarád<br>
+<span style=color:#969696> (n) </span><br><br>"	"friend<br>
+<span style=color:#969696> [frend] </span><br>"
+"rada, doporučení<br>
+<span style=color:#969696> (n) </span><br><br>"	"advice<br>
+<span style=color:#969696> [əd'vaɪs] </span><br>"
+"rozhlasová stanice<br>
+<span style=color:#969696> (n) </span><br><br>"	"radio station<br>
+<span style=color:#969696> ['reɪdiəʊ 'steɪʃn] </span><br>"
+"ryba (ryby)<br>
+<span style=color:#969696> (n) </span><br><br>"	"fish<br>
+<span style=color:#969696> [fɪʃ] </span><br>"
+"rybář<br>
+<span style=color:#969696> (n) </span><br><br>"	"fisherman<br>
+<span style=color:#969696> ['fɪʃəmən] </span><br>"
+"slovo<br>
+<span style=color:#969696> (n) </span><br><br>"	"word<br>
+<span style=color:#969696> [wɜ:d] </span><br>"
+"smát se (komu/čemu)<br>
+<span style=color:#969696> (v) </span><br><br>"	"laugh (at sb/sth)<br>
+<span style=color:#969696> [lɑ:f] </span><br>"
+"snídaně<br>
+<span style=color:#969696> (n) </span><br><br>"	"breakfast<br>
+<span style=color:#969696> ['brekfəst] </span><br>"
+"software, programové vybavení<br>
+<span style=color:#969696> (n) </span><br><br>"	"software<br>
+<span style=color:#969696> ['sɒftweə(r)] </span><br>"
+"společnost<br>
+<span style=color:#969696> (n) </span><br><br>"	"company<br>
+<span style=color:#969696> ['kʌmpəni] </span><br>"
+"stěhovat se, přestěhovat se<br>
+<span style=color:#969696> (v) </span><br><br>"	"move<br>
+<span style=color:#969696> [mu:v] </span><br>"
+"stipendium<br>
+<span style=color:#969696> (n) </span><br><br>"	"scholarship<br>
+<span style=color:#969696> ['skɒləʃɪp] </span><br>"
+"století<br>
+<span style=color:#969696> (n) </span><br><br>"	"century<br>
+<span style=color:#969696> ['senʧəri] </span><br>"
+"talk show, diskuzní pořad<br>
+<span style=color:#969696> (n) </span><br><br>"	"talk show<br>
+<span style=color:#969696> ['tɔ:k ʃəʊ] </span><br>"
+"tatínek<br>
+<span style=color:#969696> (n) </span><br><br>"	"dad (informal)<br>
+<span style=color:#969696> [dæd] </span><br>"
+"televizní hvězda<br>
+<span style=color:#969696> (n) </span><br><br>"	"TV star<br>
+<span style=color:#969696> [,ti:'vi: stɑ:(r)] </span><br>"
+"topinka, toust<br>
+<span style=color:#969696> (n) </span><br><br>"	"toast<br>
+<span style=color:#969696> [təʊst] </span><br>"
+"uhelný důl<br>
+<span style=color:#969696> (n) </span><br><br>"	"coal mine<br>
+<span style=color:#969696> ['kəʊl maɪn] </span><br>"
+"uklízet<br>
+<span style=color:#969696> (v) </span><br><br>"	"clean<br>
+<span style=color:#969696> [kli:n] </span><br>"
+"umělecky založený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"artistic<br>
+<span style=color:#969696> [ɑ:'tɪstɪk] </span><br>"
+"úspěšný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"successful<br>
+<span style=color:#969696> [sək'sesfl] </span><br>"
+"už ne (v záporných větách a otázkách)<br>
+<span style=color:#969696> (adv) </span><br><br>"	"any more<br>
+<span style=color:#969696> [eni 'mɔ:] </span><br>"
+"Vánoce<br>
+<span style=color:#969696> (n) </span><br><br>"	"Christmas<br>
+<span style=color:#969696> ['krɪsməs] </span><br>"
+"včera<br>
+<span style=color:#969696> (adv) </span><br><br>"	"yesterday<br>
+<span style=color:#969696> ['jestədeɪ] </span><br>"
+"včera večer<br>
+<span style=color:#969696></span><br><br>"	"last night<br>
+<span style=color:#969696> [lɑ:st naɪt] </span><br>"
+"vést firmu<br>
+<span style=color:#969696></span><br><br>"	"run a company<br>
+<span style=color:#969696> [rʌn ə kʌmpəni] </span><br>"
+"všechno<br>
+<span style=color:#969696> (pron) </span><br><br>"	"everything<br>
+<span style=color:#969696> ['evriθɪŋ] </span><br>"
+"všude, kdekoli<br>
+<span style=color:#969696> (adv) </span><br><br>"	"everywhere<br>
+<span style=color:#969696> ['evrɪweə(r)] </span><br>"
+"vydělat<br>
+<span style=color:#969696> (v) </span><br><br>"	"make<br>
+<span style=color:#969696> [meɪk] </span><br>"
+"vyhrát, zvítězit<br>
+<span style=color:#969696> (v) </span><br><br>"	"win<br>
+<span style=color:#969696> [wɪn] </span><br>"
+"začít, začínat<br>
+<span style=color:#969696> (v) </span><br><br>"	"begin<br>
+<span style=color:#969696> [bɪ'gɪn] </span><br>"
+"začít, zahájit<br>
+<span style=color:#969696> (v) </span><br><br>"	"start<br>
+<span style=color:#969696> [stɑ:t] </span><br>"
+"zápas, utkání<br>
+<span style=color:#969696> (n) </span><br><br>"	"match (in sport)<br>
+<span style=color:#969696> [mæʧ] </span><br>"
+"zemřít<br>
+<span style=color:#969696> (v) </span><br><br>"	"die<br>
+<span style=color:#969696> [daɪ] </span><br>"
+"zeptat se, ptát se<br>
+<span style=color:#969696> (v) </span><br><br>"	"ask<br>
+<span style=color:#969696> [ɑ:sk] </span><br>"
+"zítra<br>
+<span style=color:#969696> (adv) </span><br><br>"	"tomorrow<br>
+<span style=color:#969696> [tə'mɒrəʊ] </span><br>"
+"zkouška, test ve škole (hovorově)<br>
+<span style=color:#969696> (n) </span><br><br>"	"exam<br>
+<span style=color:#969696> [ɪg'zæm] </span><br>"
+"znepokojený, ustaraný (~ něčím)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"worried<br>
+<span style=color:#969696> ['wʌrid] </span><br>"
+"znuděný, otrávený (~ něčím)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"bored<br>
+<span style=color:#969696> [bɔ:d] </span><br>"
+"zprávy (v novinách, televizi ap.)<br>
+<span style=color:#969696> (n) </span><br><br>"	"news<br>
+<span style=color:#969696> [nju:z] </span><br>"
+"ztratit, prohrát<br>
+<span style=color:#969696> (v) </span><br><br>"	"lose<br>
+<span style=color:#969696> [lu:z] </span><br>"
+"zůstat v kontaktu<br>
+<span style=color:#969696></span><br><br>"	"stay in touch<br>
+<span style=color:#969696> [stei ɪn tʌʧ] </span><br>"
+"zvolat, vykřiknout<br>
+<span style=color:#969696> (v) </span><br><br>"	"exclaim<br>
+<span style=color:#969696> [ɪk'skleɪm] </span><br>"
+"žena/(mn. číslo) ženy<br>
+<span style=color:#969696> (n) </span><br><br>"	"woman/(pl) women<br>
+<span style=color:#969696> ['wʊmən/ 'wɪmɪn] </span><br>"
+"ani tušení, nemít ponětí<br>
+<span style=color:#969696></span><br><br>"	"no idea<br>
+<span style=color:#969696> [nəʊ aɪ'dɪə] </span><br>"
+"astronaut, kosmonaut<br>
+<span style=color:#969696> (n) </span><br><br>"	"astronaut<br>
+<span style=color:#969696> ['æstrənɔ:t] </span><br>"
+"blahopřání, gratulace<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"congratulations<br>
+<span style=color:#969696> [kən,græʧu'leɪʃnz] </span><br>"
+"celý, veškerý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"whole<br>
+<span style=color:#969696> [həʊl] </span><br>"
+"cesta (z jednoho místa na druhé)<br>
+<span style=color:#969696> (n) </span><br><br>"	"journey<br>
+<span style=color:#969696> ['dʒɜ:ni] </span><br>"
+"cestovní pas<br>
+<span style=color:#969696> (n) </span><br><br>"	"passport<br>
+<span style=color:#969696> ['pɑ:spɔ:t] </span><br>"
+"deštník<br>
+<span style=color:#969696> (n) </span><br><br>"	"umbrella<br>
+<span style=color:#969696> [ʌm'brelə] </span><br>"
+"dokončit, dodělat<br>
+<span style=color:#969696> (v) </span><br><br>"	"complete<br>
+<span style=color:#969696> [kəm'pli:t] </span><br>"
+"dort, koláč bez ovoce<br>
+<span style=color:#969696> (n) </span><br><br>"	"cake<br>
+<span style=color:#969696> [keɪk] </span><br>"
+"film<br>
+<span style=color:#969696> (n) </span><br><br>"	"movie<br>
+<span style=color:#969696> ['mu:vi] </span><br>"
+"filozofie<br>
+<span style=color:#969696> (n) </span><br><br>"	"philosophy<br>
+<span style=color:#969696> [fɪ'lɒsəfi] </span><br>"
+"havárie, nehoda<br>
+<span style=color:#969696> (n) </span><br><br>"	"crash<br>
+<span style=color:#969696> [kræʃ] </span><br>"
+"hity, oblíbené skladby<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"hits<br>
+<span style=color:#969696> [hɪts] </span><br>"
+"hluboce<br>
+<span style=color:#969696> (adv) </span><br><br>"	"deeply<br>
+<span style=color:#969696> ['di:pli] </span><br>"
+"kámen, hornina<br>
+<span style=color:#969696> (n) </span><br><br>"	"rock<br>
+<span style=color:#969696> [rɒk] </span><br>"
+"kanály<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"channels<br>
+<span style=color:#969696> ['ʧænlz] </span><br>"
+"kapesné<br>
+<span style=color:#969696> (n) </span><br><br>"	"pocket money<br>
+<span style=color:#969696> ['pɒkɪt 'mʌni] </span><br>"
+"klid, mír<br>
+<span style=color:#969696> (n) </span><br><br>"	"peace<br>
+<span style=color:#969696> [pi:s] </span><br>"
+"komiks<br>
+<span style=color:#969696> (n) </span><br><br>"	"comics<br>
+<span style=color:#969696> ['kɒmɪks] </span><br>"
+"kompas<br>
+<span style=color:#969696> (n) </span><br><br>"	"compass<br>
+<span style=color:#969696> ['kʌmpəs] </span><br>"
+"košile<br>
+<span style=color:#969696> (n) </span><br><br>"	"shirt<br>
+<span style=color:#969696> [ʃɜ:t] </span><br>"
+"let letadlem<br>
+<span style=color:#969696> (n) </span><br><br>"	"flight<br>
+<span style=color:#969696> [flaɪt] </span><br>"
+"letadlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"plane<br>
+<span style=color:#969696> [pleɪn] </span><br>"
+"letectví, letecký průmysl<br>
+<span style=color:#969696> (n) </span><br><br>"	"aviation<br>
+<span style=color:#969696> [,eɪvɪ'eɪʃn] </span><br>"
+"léto<br>
+<span style=color:#969696> (n) </span><br><br>"	"summer<br>
+<span style=color:#969696> ['sʌmə(r)] </span><br>"
+"lidstvo<br>
+<span style=color:#969696> (n) </span><br><br>"	"mankind<br>
+<span style=color:#969696> [mæn'kaɪnd] </span><br>"
+"lunární modul, měsíční modul<br>
+<span style=color:#969696> (n) </span><br><br>"	"lunar module<br>
+<span style=color:#969696> ['lu:nə(r) 'mɒdju:l] </span><br>"
+"mávat<br>
+<span style=color:#969696> (v) </span><br><br>"	"wave<br>
+<span style=color:#969696> [weɪv] </span><br>"
+"měsíc<br>
+<span style=color:#969696> (n) </span><br><br>"	"moon<br>
+<span style=color:#969696> [mu:n] </span><br>"
+"mlha<br>
+<span style=color:#969696> (n) </span><br><br>"	"fog<br>
+<span style=color:#969696> [fɒg] </span><br>"
+"moderní, novodobý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"modern<br>
+<span style=color:#969696> ['mɒdn] </span><br>"
+"muž, člověk /(mn.č.) muži<br>
+<span style=color:#969696> (n) </span><br><br>"	"man/ (pl) men<br>
+<span style=color:#969696> [mæn/ men] </span><br>"
+"myčka nádobí<br>
+<span style=color:#969696> (n) </span><br><br>"	"dishwasher<br>
+<span style=color:#969696> ['dɪʃwɒʃə] </span><br>"
+"nadmořská výška<br>
+<span style=color:#969696> (n) </span><br><br>"	"altitude<br>
+<span style=color:#969696> ['æltɪtju:d] </span><br>"
+"náhle, vtom, neočekávaně, nenadále<br>
+<span style=color:#969696> (adv) </span><br><br>"	"suddenly<br>
+<span style=color:#969696> ['sʌdənli] </span><br>"
+"námořník<br>
+<span style=color:#969696> (n) </span><br><br>"	"sailor<br>
+<span style=color:#969696> ['seɪlə(r)] </span><br>"
+"naštěstí<br>
+<span style=color:#969696> (adv) </span><br><br>"	"fortunately<br>
+<span style=color:#969696> ['fɔ:ʧənətli] </span><br>"
+"nebezpečný, riskantní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"dangerous<br>
+<span style=color:#969696> ['deɪndʒərəs] </span><br>"
+"nehoda<br>
+<span style=color:#969696> (n) </span><br><br>"	"accident<br>
+<span style=color:#969696> ['æksɪdənt] </span><br>"
+"nemocnice<br>
+<span style=color:#969696> (n) </span><br><br>"	"hospital<br>
+<span style=color:#969696> ['hɒspɪtl] </span><br>"
+"nemocný<br>
+<span style=color:#969696></span><br><br>"	"ill<br>
+<span style=color:#969696> [ɪl] </span><br>"
+"nemožný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"impossible<br>
+<span style=color:#969696> [ɪm'pɒsəbl] </span><br>"
+"nepřetržitě, nonstop<br>
+<span style=color:#969696> (adj) </span><br><br>"	"non-stop<br>
+<span style=color:#969696> [nɒnstɒp] </span><br>"
+"obrovský, obří<br>
+<span style=color:#969696> (adj) </span><br><br>"	"giant<br>
+<span style=color:#969696> ['dʒaɪent] </span><br>"
+"obrovský, velikánský, nesmírný, enormní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"enormous<br>
+<span style=color:#969696> [ɪ'nɔ:məs] </span><br>"
+"odstartovat, vzlétnout (raketa ap.)<br>
+<span style=color:#969696> (v) </span><br><br>"	"lift off<br>
+<span style=color:#969696> ['lɪft ɒf] </span><br>"
+"ohňostroj<br>
+<span style=color:#969696> (n) </span><br><br>"	"fireworks<br>
+<span style=color:#969696> ['faɪəwɜ:ks] </span><br>"
+"okamžitě, ihned<br>
+<span style=color:#969696> (adv) </span><br><br>"	"immediately<br>
+<span style=color:#969696> [ɪ'mi:diətli] </span><br>"
+"opatrně, pečlivě, pozorně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"carefully<br>
+<span style=color:#969696> ['keəfəli] </span><br>"
+"pamatovat si, vzpomenout si<br>
+<span style=color:#969696> (v) </span><br><br>"	"remember<br>
+<span style=color:#969696> [rɪ'membə(r)] </span><br>"
+"pevnina, země<br>
+<span style=color:#969696> (n) </span><br><br>"	"land<br>
+<span style=color:#969696> [lænd] </span><br>"
+"plavba (lodí na moři), dlouhá cesta<br>
+<span style=color:#969696> (n) </span><br><br>"	"voyage<br>
+<span style=color:#969696> ['vɔɪɪdʒ] </span><br>"
+"plynule, plynně, ladně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"fluently<br>
+<span style=color:#969696> ['flu:əntli] </span><br>"
+"pololetí, semestr, část školního roku<br>
+<span style=color:#969696> (n) </span><br><br>"	"term<br>
+<span style=color:#969696> [tɜ:m] </span><br>"
+"pomalu<br>
+<span style=color:#969696> (adv) </span><br><br>"	"slowly<br>
+<span style=color:#969696> ['sləʊli] </span><br>"
+"poranění, zranění, úraz<br>
+<span style=color:#969696> (n) </span><br><br>"	"injury<br>
+<span style=color:#969696> ['ɪndʒəri] </span><br>"
+"povrch<br>
+<span style=color:#969696> (n) </span><br><br>"	"surface<br>
+<span style=color:#969696> ['sɜ:fɪs] </span><br>"
+"pozvání, pozvánka, výzva<br>
+<span style=color:#969696> (n) </span><br><br>"	"invitation<br>
+<span style=color:#969696> [,ɪnvɪ'teɪʃn] </span><br>"
+"pozvat<br>
+<span style=color:#969696> (v) </span><br><br>"	"invite<br>
+<span style=color:#969696> [ɪn'vaɪt] </span><br>"
+"probudit se, vzbudit se<br>
+<span style=color:#969696> (v) </span><br><br>"	"wake up<br>
+<span style=color:#969696> [weɪk 'ʌp] </span><br>"
+"prodat, prodávat<br>
+<span style=color:#969696> (v) </span><br><br>"	"sell<br>
+<span style=color:#969696> [sel] </span><br>"
+"profesor (jen vysokoškolský)<br>
+<span style=color:#969696> (n) </span><br><br>"	"professor<br>
+<span style=color:#969696> [prə'fesə(r)] </span><br>"
+"protože<br>
+<span style=color:#969696> (conj) </span><br><br>"	"because<br>
+<span style=color:#969696> [bɪ'kɒz] </span><br>"
+"průkopník<br>
+<span style=color:#969696> (n) </span><br><br>"	"pioneer<br>
+<span style=color:#969696> [,paɪə'nɪə(r)] </span><br>"
+"průzkum<br>
+<span style=color:#969696> (n) </span><br><br>"	"exploration<br>
+<span style=color:#969696> [,eksplə'reɪʃn] </span><br>"
+"přechod pro chodce<br>
+<span style=color:#969696> (n) </span><br><br>"	"crossing<br>
+<span style=color:#969696> ['krɒsɪŋ] </span><br>"
+"přeplavba, přejezd (trajektu, lodi ap.)<br>
+<span style=color:#969696> (n) </span><br><br>"	"crossing<br>
+<span style=color:#969696> ['krɒsɪŋ] </span><br>"
+"připojit se přidat se (ke komu, k čemu)<br>
+<span style=color:#969696> (v) </span><br><br>"	"join<br>
+<span style=color:#969696> [dʒɔɪn] </span><br>"
+"připravit se, nachystat<br>
+<span style=color:#969696> (v) </span><br><br>"	"prepare<br>
+<span style=color:#969696> [prɪ'peər] </span><br>"
+"psychologie<br>
+<span style=color:#969696> (n) </span><br><br>"	"psychology<br>
+<span style=color:#969696> [saɪ'kɒlədʒɪ] </span><br>"
+"publikovat, uveřejnit<br>
+<span style=color:#969696> (v) </span><br><br>"	"publish<br>
+<span style=color:#969696> ['pʌblɪʃ] </span><br>"
+"půlnoc<br>
+<span style=color:#969696> (n) </span><br><br>"	"midnight<br>
+<span style=color:#969696> ['mɪdnaɪt] </span><br>"
+"raketa (kosmická)<br>
+<span style=color:#969696> (n) </span><br><br>"	"rocket<br>
+<span style=color:#969696> ['rɒkɪt] </span><br>"
+"relativita<br>
+<span style=color:#969696> (n) </span><br><br>"	"relativity<br>
+<span style=color:#969696> [,relə'tɪvəti] </span><br>"
+"reportér<br>
+<span style=color:#969696> (n) </span><br><br>"	"reporter<br>
+<span style=color:#969696> [rɪ'pɔ:tə(r)] </span><br>"
+"reportér<br>
+<span style=color:#969696> (n) </span><br><br>"	"reporter<br>
+<span style=color:#969696> [rɪ'pɔ:tə(r)] </span><br>"
+"růže (jednotné č.) / růře (mn.číslo)<br>
+<span style=color:#969696> (n) </span><br><br>"	"rose / roses<br>
+<span style=color:#969696> [rəʊz / 'rəʊzɪz] </span><br>"
+"rychlé občerstvení<br>
+<span style=color:#969696> (n) </span><br><br>"	"fast food<br>
+<span style=color:#969696> [,fɑ:st 'fu:d] </span><br>"
+"rychle, svižně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"quickly<br>
+<span style=color:#969696> ['kwɪkli] </span><br>"
+"sbírat (známky, mince)<br>
+<span style=color:#969696> (v) </span><br><br>"	"collect<br>
+<span style=color:#969696> [kə'ləkt] </span><br>"
+"sladkosti, bonbón, zákusek, cukrovinky<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"sweets (~ are)<br>
+<span style=color:#969696> [swi:ts] </span><br>"
+"strávit, prožít (čas)<br>
+<span style=color:#969696> (v) </span><br><br>"	"spend<br>
+<span style=color:#969696> [spend] </span><br>"
+"střední škola (AmE)<br>
+<span style=color:#969696> (n) </span><br><br>"	"high school (AmE)<br>
+<span style=color:#969696> ['haɪ sku:l] </span><br>"
+"špatně, těžce, zle, vážně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"badly<br>
+<span style=color:#969696> ['bædli] </span><br>"
+"teorie<br>
+<span style=color:#969696> (n) </span><br><br>"	"theory<br>
+<span style=color:#969696> ['θɪəri] </span><br>"
+"tiše, nehlučně, nenápadně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"quietly<br>
+<span style=color:#969696> ['kwaɪətli] </span><br>"
+"To zní skvěle! / Dobrý nápad!<br>
+<span style=color:#969696> (věta) </span><br><br>"	"It sounds great!<br>
+<span style=color:#969696> [ɪt saʊndz greɪt] </span><br>"
+"událost<br>
+<span style=color:#969696> (n) </span><br><br>"	"event<br>
+<span style=color:#969696> [ɪ'vent] </span><br>"
+"udělat krok, vykročit<br>
+<span style=color:#969696> (v) </span><br><br>"	"step<br>
+<span style=color:#969696> [step] </span><br>"
+"v (kolik hodin)<br>
+<span style=color:#969696> (prep) </span><br><br>"	"at<br>
+<span style=color:#969696> [æt] </span><br>"
+"vesmír<br>
+<span style=color:#969696> (n) </span><br><br>"	"space<br>
+<span style=color:#969696> [speɪs] </span><br>"
+"vlajka<br>
+<span style=color:#969696> (n) </span><br><br>"	"flag<br>
+<span style=color:#969696> [flæg] </span><br>"
+"vlna (srst, textilní surovina)<br>
+<span style=color:#969696> (n) </span><br><br>"	"wool<br>
+<span style=color:#969696> [wʊl] </span><br>"
+"vybavení, zařízení (vnitřní)<br>
+<span style=color:#969696> (n) </span><br><br>"	"equipment<br>
+<span style=color:#969696> [ɪ'kwɪpmənt] </span><br>"
+"vyrytý nápis<br>
+<span style=color:#969696> (n) </span><br><br>"	"inscription<br>
+<span style=color:#969696> [ɪn'skrɪpʃn] </span><br>"
+"vyskočit<br>
+<span style=color:#969696> (v) </span><br><br>"	"leap<br>
+<span style=color:#969696> [li:p] </span><br>"
+"vysoká škola, vyšší odborná činnost, vyšší dvouletá škola; nástavba (po střední škole)<br>
+<span style=color:#969696> (n) </span><br><br>"	"college<br>
+<span style=color:#969696> ['kɒlɪdʒ] </span><br>"
+"vzdělání, výchova<br>
+<span style=color:#969696> (n) </span><br><br>"	"education<br>
+<span style=color:#969696> [,edʒʊ'keɪʃn] </span><br>"
+"vzorek<br>
+<span style=color:#969696> (n) </span><br><br>"	"sample<br>
+<span style=color:#969696> ['sɑ:mpl] </span><br>"
+"vztyčit (vlajku) (fráz.sloveso)<br>
+<span style=color:#969696> (v) </span><br><br>"	"put up (a flag)<br>
+<span style=color:#969696> [pʊt 'ʌp] </span><br>"
+"zábavní park<br>
+<span style=color:#969696> (n) </span><br><br>"	"theme park<br>
+<span style=color:#969696> ['θi:m pɑ:k] </span><br>"
+"zánět kloubů, artritida<br>
+<span style=color:#969696> (n) </span><br><br>"	"arthritis<br>
+<span style=color:#969696> [,ɑ:'θraɪtɪs] </span><br>"
+"znát, vědět<br>
+<span style=color:#969696> (v) </span><br><br>"	"know<br>
+<span style=color:#969696> [nəʊ] </span><br>"
+"zvyk, návyk<br>
+<span style=color:#969696> (n) </span><br><br>"	"habit<br>
+<span style=color:#969696> ['hæbɪt] </span><br>"
+"život<br>
+<span style=color:#969696> (n) </span><br><br>"	"life<br>
+<span style=color:#969696> [laɪf] </span><br>"
+"adaptér<br>
+<span style=color:#969696> (n) </span><br><br>"	"adaptor<br>
+<span style=color:#969696> [ə'dæptə(r)] </span><br>"
+"arašídové máslo<br>
+<span style=color:#969696> (n) </span><br><br>"	"peanut butter<br>
+<span style=color:#969696> [,pi:nʌt 'bʌtə(r)] </span><br>"
+"aspirin<br>
+<span style=color:#969696> (n) </span><br><br>"	"aspirin<br>
+<span style=color:#969696> ['æsprɪn] </span><br>"
+"autobus (dálkový, zájezdový ap.)<br>
+<span style=color:#969696> (n) </span><br><br>"	"coach<br>
+<span style=color:#969696> [kouʧ] </span><br>"
+"balíček sušenek<br>
+<span style=color:#969696> (n) </span><br><br>"	"packet of biscuits<br>
+<span style=color:#969696> ['pækɪt əv 'bɪskɪtz] </span><br>"
+"balíček, balení<br>
+<span style=color:#969696> (n) </span><br><br>"	"packet<br>
+<span style=color:#969696> ['pækɪt] </span><br>"
+"banán<br>
+<span style=color:#969696> (n) </span><br><br>"	"banana<br>
+<span style=color:#969696> [bə'nɑ:nə] </span><br>"
+"baterie<br>
+<span style=color:#969696> (n) </span><br><br>"	"battery<br>
+<span style=color:#969696> ['bætəri] </span><br>"
+"bazalka<br>
+<span style=color:#969696> (n) </span><br><br>"	"basil<br>
+<span style=color:#969696> ['bæzl] </span><br>"
+"biftek, řízek, steak<br>
+<span style=color:#969696> (n) </span><br><br>"	"steak<br>
+<span style=color:#969696> [steɪk] </span><br>"
+"bohužel, je mi líto (jako omluva nebo nesouhlas)<br>
+<span style=color:#969696> (phr) </span><br><br>"	"I'm afraid<br>
+<span style=color:#969696> [ə'freɪd] </span><br>"
+"brambory<br>
+<span style=color:#969696> (n) </span><br><br>"	"potatoes<br>
+<span style=color:#969696> [pə'teɪtəʊz] </span><br>"
+"brambůrky, chipsy, křupky<br>
+<span style=color:#969696> (n) </span><br><br>"	"crisps<br>
+<span style=color:#969696> [krɪsps] </span><br>"
+"brokolice<br>
+<span style=color:#969696> (n) </span><br><br>"	"broccoli<br>
+<span style=color:#969696> ['brɒkəli] </span><br>"
+"bylinky<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"herbs (pl)<br>
+<span style=color:#969696> [hɜ:bz] </span><br>"
+"celosvětový,  na celém světě<br>
+<span style=color:#969696> (adj) </span><br><br>"	"worldwide<br>
+<span style=color:#969696> ['wə:ldwaɪd] </span><br>"
+"cibule<br>
+<span style=color:#969696> (n) </span><br><br>"	"onion<br>
+<span style=color:#969696> ['ʌnjən] </span><br>"
+"cukr<br>
+<span style=color:#969696> (n) </span><br><br>"	"sugar<br>
+<span style=color:#969696> ['ʃʊgə(r)] </span><br>"
+"čaj<br>
+<span style=color:#969696> (n) </span><br><br>"	"tea<br>
+<span style=color:#969696> [ti:] </span><br>"
+"číšnice, servírka<br>
+<span style=color:#969696> (n) </span><br><br>"	"waitress<br>
+<span style=color:#969696> ['weɪtrəs] </span><br>"
+"čokoláda<br>
+<span style=color:#969696> (n) </span><br><br>"	"chocolate<br>
+<span style=color:#969696> ['ʧɒklət] </span><br>"
+"denně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"daily<br>
+<span style=color:#969696> ['deɪli] </span><br>"
+"dítě, děcko (hovorově)<br>
+<span style=color:#969696> (n) </span><br><br>"	"kid (informal)<br>
+<span style=color:#969696> [kɪd] </span><br>"
+"dokud (v záporné větě)<br>
+<span style=color:#969696> (prep) </span><br><br>"	"until<br>
+<span style=color:#969696> [ʌn'tɪl] </span><br>"
+"domácí potřeby, železářství<br>
+<span style=color:#969696> (n) </span><br><br>"	"hardware shop<br>
+<span style=color:#969696> ['hɑ:dweə(r) ʃɒp] </span><br>"
+"elegantní, módní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"fashionable<br>
+<span style=color:#969696> ['fæʃnəbl] </span><br>"
+"francouzský rohlík, croissant<br>
+<span style=color:#969696> (n) </span><br><br>"	"croissant<br>
+<span style=color:#969696> ['krwæsɒ] </span><br>"
+"gramy<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"grams<br>
+<span style=color:#969696> [græmz] </span><br>"
+"hladovějící, vyhladovělý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"starving<br>
+<span style=color:#969696> ['stɑ:vɪŋ] </span><br>"
+"hladový<br>
+<span style=color:#969696> (adj) </span><br><br>"	"hungry<br>
+<span style=color:#969696> ['hʌŋgri] </span><br>"
+"hořčice<br>
+<span style=color:#969696> (n) </span><br><br>"	"mustard<br>
+<span style=color:#969696> ['mʌstəd] </span><br>"
+"hovězí (maso)<br>
+<span style=color:#969696> (n) </span><br><br>"	"beef<br>
+<span style=color:#969696> [bi:f] </span><br>"
+"hranolky<br>
+<span style=color:#969696> (n) </span><br><br>"	"chips (UK)<br>
+<span style=color:#969696> [ʧɪpz] </span><br>"
+"hrášek (mn.číslo)<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"peas<br>
+<span style=color:#969696> [pi:z] </span><br>"
+"chlapec<br>
+<span style=color:#969696> (n) </span><br><br>"	"boy<br>
+<span style=color:#969696> [bɔɪ] </span><br>"
+"chlazený nápoj<br>
+<span style=color:#969696> (n) </span><br><br>"	"cold drink<br>
+<span style=color:#969696> [kəʊld drɪŋk] </span><br>"
+"chléb<br>
+<span style=color:#969696> (n) </span><br><br>"	"bread<br>
+<span style=color:#969696> [bred] </span><br>"
+"izolepa, samolepící páska<br>
+<span style=color:#969696> (n) </span><br><br>"	"sellotape<br>
+<span style=color:#969696> ['seləteɪp] </span><br>"
+"jablko<br>
+<span style=color:#969696> (n) </span><br><br>"	"apple<br>
+<span style=color:#969696> ['æpl] </span><br>"
+"jablkový džus<br>
+<span style=color:#969696> (n) </span><br><br>"	"apple juice<br>
+<span style=color:#969696> ['æpl dʒu:s] </span><br>"
+"jahoda / jahody<br>
+<span style=color:#969696> (n) </span><br><br>"	"strawberry / strawberries<br>
+<span style=color:#969696> ['strɔ:bərɪ  / 'strɔ:bəriz] </span><br>"
+"jogurt<br>
+<span style=color:#969696> (n) </span><br><br>"	"yoghurt<br>
+<span style=color:#969696> ['jɒgət] </span><br>"
+"kapsa<br>
+<span style=color:#969696> (n) </span><br><br>"	"pocket<br>
+<span style=color:#969696> ['pɒkɪt] </span><br>"
+"klub, spolek<br>
+<span style=color:#969696> (n) </span><br><br>"	"club<br>
+<span style=color:#969696> [klʌb] </span><br>"
+"kočka<br>
+<span style=color:#969696> (n) </span><br><br>"	"cat<br>
+<span style=color:#969696> [kæt] </span><br>"
+"kolik (u nepočitatelných podst.jmen)<br>
+<span style=color:#969696> (věta) </span><br><br>"	"how much<br>
+<span style=color:#969696></span><br>"
+"koření<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"spices<br>
+<span style=color:#969696> ['spaɪsɪz] </span><br>"
+"kraslené postavičky<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"cartoon characters<br>
+<span style=color:#969696> [kɑ:'tu:n 'kærəktəz] </span><br>"
+"kuchařka (kniha s recepty)<br>
+<span style=color:#969696> (n) </span><br><br>"	"cookbook<br>
+<span style=color:#969696> ['kʊkbʊk] </span><br>"
+"láhev (džusu/mléka)<br>
+<span style=color:#969696> (n) </span><br><br>"	"bottle (of juice/milk)<br>
+<span style=color:#969696> ['bɒtl (əv dʒu:s / mɪlk)] </span><br>"
+"lahodný, velice chutný, výtečný (o jídle)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"delicious<br>
+<span style=color:#969696> [dɪ'lɪʃəs] </span><br>"
+"malina<br>
+<span style=color:#969696> (n) </span><br><br>"	"raspberry<br>
+<span style=color:#969696> ['rɑ:zbəri] </span><br>"
+"máslo<br>
+<span style=color:#969696> (n) </span><br><br>"	"butter<br>
+<span style=color:#969696> ['bʌtə(r)] </span><br>"
+"maso<br>
+<span style=color:#969696> (n) </span><br><br>"	"meat<br>
+<span style=color:#969696> [mi:t] </span><br>"
+"med<br>
+<span style=color:#969696> (n) </span><br><br>"	"honey<br>
+<span style=color:#969696> ['hʌni] </span><br>"
+"mletý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"minced<br>
+<span style=color:#969696> [mɪnst] </span><br>"
+"mrkev, karotka<br>
+<span style=color:#969696> (n) </span><br><br>"	"carrot<br>
+<span style=color:#969696> ['kærət] </span><br>"
+"nahrát, zaznamenat, udělat zápis<br>
+<span style=color:#969696> (v) </span><br><br>"	"record<br>
+<span style=color:#969696> [rɪ'kɔ:d] </span><br>"
+"náplast, leukoplast<br>
+<span style=color:#969696> (n) </span><br><br>"	"plaster<br>
+<span style=color:#969696> ['plɑ:stə(r)] </span><br>"
+"nasekat, nakrájet (cibuli ap.)<br>
+<span style=color:#969696> (v) </span><br><br>"	"chop<br>
+<span style=color:#969696> [ʧɒp] </span><br>"
+"nechutný (čin ap.), odporný (zápach ap.)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"disgusting<br>
+<span style=color:#969696> [dɪs'gʌstɪŋ] </span><br>"
+"některý, nějaký<br>
+<span style=color:#969696> (pron) </span><br><br>"	"some<br>
+<span style=color:#969696> [sʌm] </span><br>"
+"neperlivý (voda)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"still (water)<br>
+<span style=color:#969696> [stɪl] </span><br>"
+"nudný, otravný, obtěžující<br>
+<span style=color:#969696> (adj) </span><br><br>"	"boring<br>
+<span style=color:#969696> ['bɔ:rɪŋ] </span><br>"
+"nůžky<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"scissors<br>
+<span style=color:#969696> ['sɪzəz] </span><br>"
+"obávat se<br>
+<span style=color:#969696> (v) </span><br><br>"	"worry<br>
+<span style=color:#969696> ['wʌri] </span><br>"
+"objednat si<br>
+<span style=color:#969696> (v) </span><br><br>"	"order (sth)<br>
+<span style=color:#969696> ['ɔ:də(r)] </span><br>"
+"oblíbený, nejoblíbenější<br>
+<span style=color:#969696> (adj) </span><br><br>"	"favourite<br>
+<span style=color:#969696> ['feɪvərɪt] </span><br>"
+"olej<br>
+<span style=color:#969696> (n) </span><br><br>"	"oil<br>
+<span style=color:#969696> [ɔɪl] </span><br>"
+"olivy<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"olives<br>
+<span style=color:#969696> ['ɒlɪvz] </span><br>"
+"oříšek (oříšky)<br>
+<span style=color:#969696> (n) </span><br><br>"	"nut (nuts)<br>
+<span style=color:#969696> [nʌt (nʌts)] </span><br>"
+"ovocný koktejl<br>
+<span style=color:#969696> (n) </span><br><br>"	"smoothie<br>
+<span style=color:#969696> ['smu:ði:] </span><br>"
+"papírnictví (prodejna)<br>
+<span style=color:#969696> (n) </span><br><br>"	"stationer’s<br>
+<span style=color:#969696> ['steɪʃənəz] </span><br>"
+"pepř<br>
+<span style=color:#969696> (n) </span><br><br>"	"pepper<br>
+<span style=color:#969696> ['pepə(r)] </span><br>"
+"populární, oblíbený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"popular<br>
+<span style=color:#969696> ['pɒpjələ(r)] </span><br>"
+"porce, plátek, krajíc, řez<br>
+<span style=color:#969696> (n) </span><br><br>"	"slice<br>
+<span style=color:#969696> [slaɪs] </span><br>"
+"potřebovat<br>
+<span style=color:#969696> (v) </span><br><br>"	"need<br>
+<span style=color:#969696> [ni:d] </span><br>"
+"promiňte, je mi líto, lituji<br>
+<span style=color:#969696> (phr) </span><br><br>"	"sorry<br>
+<span style=color:#969696> ['sɒri] </span><br>"
+"průzkum, dotazování, anketa<br>
+<span style=color:#969696> (n) </span><br><br>"	"survey<br>
+<span style=color:#969696> [sɜ:'veɪ] </span><br>"
+"přidat<br>
+<span style=color:#969696> (v) </span><br><br>"	"add<br>
+<span style=color:#969696> [æd] </span><br>"
+"přísada, složka (při vaření ap.)<br>
+<span style=color:#969696> (n) </span><br><br>"	"ingredient<br>
+<span style=color:#969696> [ɪn'gri:diənt] </span><br>"
+"rajče / rajčata<br>
+<span style=color:#969696> (n) </span><br><br>"	"tomato / tomatoes<br>
+<span style=color:#969696> [tə'mɑ:təʊ / tə'mɑ:təʊz] </span><br>"
+"recept (kuchařský)<br>
+<span style=color:#969696> (n) </span><br><br>"	"recipe<br>
+<span style=color:#969696> ['resəpi] </span><br>"
+"rybí prsty<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"fish fingers<br>
+<span style=color:#969696> [,fɪʃ 'fɪŋgəz] </span><br>"
+"salát (zeleninový pokrm)<br>
+<span style=color:#969696> (n) </span><br><br>"	"salad<br>
+<span style=color:#969696> ['sæləd] </span><br>"
+"sázet peníze při hazardu<br>
+<span style=color:#969696> (v) </span><br><br>"	"gamble<br>
+<span style=color:#969696> ['gæmbl] </span><br>"
+"seznam<br>
+<span style=color:#969696> (n) </span><br><br>"	"list<br>
+<span style=color:#969696> [lɪst] </span><br>"
+"slanina<br>
+<span style=color:#969696> (n) </span><br><br>"	"bacon<br>
+<span style=color:#969696> ['beɪkən] </span><br>"
+"smažit, opékat<br>
+<span style=color:#969696> (v) </span><br><br>"	"fry<br>
+<span style=color:#969696> [fraɪ] </span><br>"
+"smíchat, zamíchat<br>
+<span style=color:#969696> (v) </span><br><br>"	"mix<br>
+<span style=color:#969696> [mɪks] </span><br>"
+"sportovní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"sports<br>
+<span style=color:#969696> [spɔ:ts] </span><br>"
+"sporty<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"sports<br>
+<span style=color:#969696> [spɔ:ts] </span><br>"
+"stánek s novinami, trafika<br>
+<span style=color:#969696> (n) </span><br><br>"	"newsagent's<br>
+<span style=color:#969696> ['nju:zeɪdʒənts] </span><br>"
+"střední, středně velký<br>
+<span style=color:#969696> (adj) </span><br><br>"	"medium<br>
+<span style=color:#969696> ['mi:diəm] </span><br>"
+"stýskat se po něčem, postrádat<br>
+<span style=color:#969696> (v) </span><br><br>"	"miss<br>
+<span style=color:#969696> [mɪs] </span><br>"
+"suchý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"dry<br>
+<span style=color:#969696> [draɪ] </span><br>"
+"sůl<br>
+<span style=color:#969696> (n) </span><br><br>"	"salt<br>
+<span style=color:#969696> [sɒlt] </span><br>"
+"sušenky, keksy<br>
+<span style=color:#969696> (n) </span><br><br>"	"biscuits (AmE cookies)<br>
+<span style=color:#969696> ['bɪskɪts / cʊki:z] </span><br>"
+"šampon<br>
+<span style=color:#969696> (n) </span><br><br>"	"shampoo<br>
+<span style=color:#969696> [ʃæm'pu:] </span><br>"
+"špagety<br>
+<span style=color:#969696> (n) </span><br><br>"	"spaghetti<br>
+<span style=color:#969696> [spə'geti] </span><br>"
+"šroubovák<br>
+<span style=color:#969696> (n) </span><br><br>"	"screwdriver<br>
+<span style=color:#969696> ['skru:draɪvə(r)] </span><br>"
+"šunka<br>
+<span style=color:#969696> (n) </span><br><br>"	"ham<br>
+<span style=color:#969696> [hæm] </span><br>"
+"těstoviny<br>
+<span style=color:#969696> (n) </span><br><br>"	"pasta<br>
+<span style=color:#969696> ['pæstə] </span><br>"
+"to není problém, klidně (jako souhlas)<br>
+<span style=color:#969696></span><br><br>"	"no problem<br>
+<span style=color:#969696> [nəʊ 'prɒbləm] </span><br>"
+"trochu<br>
+<span style=color:#969696> (det) </span><br><br>"	"some<br>
+<span style=color:#969696> [sʌm] </span><br>"
+"tymián<br>
+<span style=color:#969696> (n) </span><br><br>"	"thyme<br>
+<span style=color:#969696> [taɪm] </span><br>"
+"utratit<br>
+<span style=color:#969696> (v) </span><br><br>"	"spend<br>
+<span style=color:#969696> [spend] </span><br>"
+"vajíčko, vejce<br>
+<span style=color:#969696> (n) </span><br><br>"	"egg<br>
+<span style=color:#969696> [eg] </span><br>"
+"vaření<br>
+<span style=color:#969696> (n) </span><br><br>"	"cooking<br>
+<span style=color:#969696> ['kʊkɪŋ] </span><br>"
+"vařit (jídlo ve vodě), vřít<br>
+<span style=color:#969696> (v) </span><br><br>"	"boil<br>
+<span style=color:#969696> [bɔɪl] </span><br>"
+"velikost, rozměr<br>
+<span style=color:#969696> (n) </span><br><br>"	"size<br>
+<span style=color:#969696> [saɪz] </span><br>"
+"velký, rozsáhlý, obrovský (rozlohou)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"large<br>
+<span style=color:#969696> [la:dʒ] </span><br>"
+"ven z (domu)<br>
+<span style=color:#969696> (phr) </span><br><br>"	"out of (house)<br>
+<span style=color:#969696> [aʊt əv] </span><br>"
+"voda z kohoutku (z vodovodu)<br>
+<span style=color:#969696> (n) </span><br><br>"	"tap water<br>
+<span style=color:#969696> ['tæp wɔ:tə(r)] </span><br>"
+"vrchní kuchař, šéfkuchař<br>
+<span style=color:#969696> (n) </span><br><br>"	"chef<br>
+<span style=color:#969696> [ʃef] </span><br>"
+"vrstva<br>
+<span style=color:#969696> (n) </span><br><br>"	"layer<br>
+<span style=color:#969696> ['leɪə(r)] </span><br>"
+"vybíravý, příliš náročný (v jídle, vkusem)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"fussy<br>
+<span style=color:#969696> ['fʌsɪ] </span><br>"
+"zapečené mleté maso se šťouchanými brambory (Anglie)<br>
+<span style=color:#969696> (n) </span><br><br>"	"cottage pie<br>
+<span style=color:#969696> [,kɒtɪdʒ 'paɪ] </span><br>"
+"zápisník, poznámkový sešit, notes<br>
+<span style=color:#969696> (n) </span><br><br>"	"notebook<br>
+<span style=color:#969696> ['nəʊtbʊk] </span><br>"
+"zapomenout<br>
+<span style=color:#969696> (v) </span><br><br>"	"forget<br>
+<span style=color:#969696> [fə'get] </span><br>"
+"zejména, především (spojení s jednou věcí či člověkem)<br>
+<span style=color:#969696> (adv) </span><br><br>"	"especially<br>
+<span style=color:#969696> [ɪ'speʃəli] </span><br>"
+"zkusit, zkoušet, vyzkoušet,<br>
+<span style=color:#969696> (v) </span><br><br>"	"try<br>
+<span style=color:#969696> [traɪ] </span><br>"
+"známka (poštovní), kolek<br>
+<span style=color:#969696> (n) </span><br><br>"	"stamp<br>
+<span style=color:#969696> [stæmp] </span><br>"
+"zubní pasta<br>
+<span style=color:#969696> (n) </span><br><br>"	"toothpaste<br>
+<span style=color:#969696> ['tu:θpeɪst] </span><br>"
+"žádný (v záporné větě)<br>
+<span style=color:#969696> (det) </span><br><br>"	"any<br>
+<span style=color:#969696> ['eni] </span><br>"
+"aktuální, moderní, poslední verze (programu ap.)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"up-to-date<br>
+<span style=color:#969696> [,ʌp tə 'deɪt] </span><br>"
+"Angličan<br>
+<span style=color:#969696> (n) </span><br><br>"	"Englishman<br>
+<span style=color:#969696> ['ɪŋglɪʃmən] </span><br>"
+"architektura<br>
+<span style=color:#969696> (n) </span><br><br>"	"architecture<br>
+<span style=color:#969696> ['ɑ:kɪtekʧə(r)] </span><br>"
+"banka<br>
+<span style=color:#969696> (n) </span><br><br>"	"bank<br>
+<span style=color:#969696> [bæŋk] </span><br>"
+"bezpečný, bez rizika<br>
+<span style=color:#969696> (adj) </span><br><br>"	"safe<br>
+<span style=color:#969696> [seɪf] </span><br>"
+"celebrity<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"celebritiies<br>
+<span style=color:#969696> [sə'lebrətiz] </span><br>"
+"celkově, obecně, všeobecně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"generally<br>
+<span style=color:#969696> ['dʒenrəli] </span><br>"
+"centra obchodu<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"commercial centres<br>
+<span style=color:#969696> [kə'mɜ:ʃl 'sentəz] </span><br>"
+"centrální, středový, v centru<br>
+<span style=color:#969696> (adj) </span><br><br>"	"central<br>
+<span style=color:#969696> ['sentrəl] </span><br>"
+"císař<br>
+<span style=color:#969696> (n) </span><br><br>"	"emperor<br>
+<span style=color:#969696> ['empərə(r)] </span><br>"
+"cizinec (např. Brit v CZ)<br>
+<span style=color:#969696> (n) </span><br><br>"	"foreigner<br>
+<span style=color:#969696> ['fɒrənə(r)] </span><br>"
+"dávat přednost (něčemu před něčím)<br>
+<span style=color:#969696> (v) </span><br><br>"	"prefer (~ sth to sth)<br>
+<span style=color:#969696> [prɪ'fɜ:(r)] </span><br>"
+"deštivý, děštivo<br>
+<span style=color:#969696> (adj) </span><br><br>"	"rainy<br>
+<span style=color:#969696> ['reɪni] </span><br>"
+"divadlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"theatre<br>
+<span style=color:#969696> ['θɪətə(r)] </span><br>"
+"dlouhý, vysoký (popis osoby)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"tall<br>
+<span style=color:#969696> [tɔ:l] </span><br>"
+"doprava, transport (systém)<br>
+<span style=color:#969696> (n) </span><br><br>"	"transport (~ is)<br>
+<span style=color:#969696> ['trænspɔ:t] </span><br>"
+"dopravní značka<br>
+<span style=color:#969696> (n) </span><br><br>"	"traffic sign<br>
+<span style=color:#969696> ['træfɪk saɪn] </span><br>"
+"elegantní (popis osoby - vzhled)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"elegant<br>
+<span style=color:#969696> ['elɪgənt] </span><br>"
+"elektřina<br>
+<span style=color:#969696> (n) </span><br><br>"	"electricity<br>
+<span style=color:#969696> [ɪ,lektrɪsəti] </span><br>"
+"extrémní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"extreme<br>
+<span style=color:#969696> [ɪk'stri:m] </span><br>"
+"historický, dějinný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"historic<br>
+<span style=color:#969696> [hɪ'stɒrɪk] </span><br>"
+"hlasitý, hlučný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"loud<br>
+<span style=color:#969696> [laʊd] </span><br>"
+"hlavní město<br>
+<span style=color:#969696> (n) </span><br><br>"	"capital (city)<br>
+<span style=color:#969696> ['kæpɪtl 'sɪtɪ] </span><br>"
+"hlavní sídlo firmy, ústředí, centrála<br>
+<span style=color:#969696> (n) </span><br><br>"	"headquarters<br>
+<span style=color:#969696> [,hed'kwɔ:təz] </span><br>"
+"hory, pohoří<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"mountains<br>
+<span style=color:#969696> ['maʊntənz] </span><br>"
+"hračkářství<br>
+<span style=color:#969696> (n) </span><br><br>"	"toy shop<br>
+<span style=color:#969696> [tɔɪ ʃɒp] </span><br>"
+"hygienická opatření<br>
+<span style=color:#969696> (n) </span><br><br>"	"sanitation<br>
+<span style=color:#969696> [,sænɪ'teɪʃn] </span><br>"
+"chrám, svatyně<br>
+<span style=color:#969696> (n) </span><br><br>"	"temple<br>
+<span style=color:#969696> ['templ] </span><br>"
+"chudinské čtvrti, slumy<br>
+<span style=color:#969696> (n) </span><br><br>"	"slums (pl)<br>
+<span style=color:#969696> [slʌmz] </span><br>"
+"chudoba, bída, nouze<br>
+<span style=color:#969696> (n) </span><br><br>"	"poverty<br>
+<span style=color:#969696> ['pɒvəti] </span><br>"
+"jaro<br>
+<span style=color:#969696> (n) </span><br><br>"	"spring<br>
+<span style=color:#969696> [sprɪŋ] </span><br>"
+"jedinečný, unikátní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"unique<br>
+<span style=color:#969696> [ju'ni:k] </span><br>"
+"jih<br>
+<span style=color:#969696> (n) </span><br><br>"	"south<br>
+<span style=color:#969696> [saʊθ] </span><br>"
+"kamenný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"stone<br>
+<span style=color:#969696> [stəʊn] </span><br>"
+"kilometr<br>
+<span style=color:#969696> (n) </span><br><br>"	"kilometre (AmE - kilometer)<br>
+<span style=color:#969696> [kɪ'lɒmɪtə(r)] </span><br>"
+"klenoty, šperky<br>
+<span style=color:#969696> (n) </span><br><br>"	"jewellery (jewelry AmE)<br>
+<span style=color:#969696> ['dʒu:əlrɪ] </span><br>"
+"klima, podnebí<br>
+<span style=color:#969696> (n) </span><br><br>"	"climate<br>
+<span style=color:#969696> ['klaɪmət] </span><br>"
+"kluby<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"clubs<br>
+<span style=color:#969696> [clʌbz] </span><br>"
+"koloniální<br>
+<span style=color:#969696> (adj) </span><br><br>"	"colonial<br>
+<span style=color:#969696> [kə'ləʊniəl] </span><br>"
+"konat se, dít se (fráz.sloveso)<br>
+<span style=color:#969696> (v) </span><br><br>"	"take place<br>
+<span style=color:#969696> [teɪk pleɪs] </span><br>"
+"kopec, hora, vrch<br>
+<span style=color:#969696> (n) </span><br><br>"	"hill<br>
+<span style=color:#969696> [hɪl] </span><br>"
+"kostel<br>
+<span style=color:#969696> (n) </span><br><br>"	"church<br>
+<span style=color:#969696> [ʧɜ:ʧ] </span><br>"
+"kruhová křižovatka<br>
+<span style=color:#969696> (n) </span><br><br>"	"roundabout<br>
+<span style=color:#969696> [raʊndəbaʊt] </span><br>"
+"kultura<br>
+<span style=color:#969696> (n) </span><br><br>"	"culture<br>
+<span style=color:#969696> ['kʌlʧə(r)] </span><br>"
+"kvalita<br>
+<span style=color:#969696> (n) </span><br><br>"	"quality<br>
+<span style=color:#969696> ['kwɒləti] </span><br>"
+"kvést (strom nebo keř)<br>
+<span style=color:#969696> (v) </span><br><br>"	"blossom<br>
+<span style=color:#969696> ['blɒsəm] </span><br>"
+"les<br>
+<span style=color:#969696> (n) </span><br><br>"	"wood<br>
+<span style=color:#969696> [wʊd] </span><br>"
+"metro<br>
+<span style=color:#969696> (n) </span><br><br>"	"Metro<br>
+<span style=color:#969696> ['metrəʊ] </span><br>"
+"móda<br>
+<span style=color:#969696> (n) </span><br><br>"	"fashion<br>
+<span style=color:#969696> ['fæʃn] </span><br>"
+"mokrý, vlhký, promáčený, zpocený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"wet<br>
+<span style=color:#969696> [wet] </span><br>"
+"mrakodrap<br>
+<span style=color:#969696> (n) </span><br><br>"	"skyscraper<br>
+<span style=color:#969696> ['skaɪskreɪpə(r)] </span><br>"
+"multikulturní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"multicultural<br>
+<span style=color:#969696> [,mʌlti'kʌlʧərəl] </span><br>"
+"náměstí (na náměstí)<br>
+<span style=color:#969696> (n) </span><br><br>"	"square (in the square)<br>
+<span style=color:#969696> [skweə(r)] </span><br>"
+"někde,někam<br>
+<span style=color:#969696> (adv) </span><br><br>"	"somewhere<br>
+<span style=color:#969696> ['sʌmweə(r)] </span><br>"
+"nezávislost<br>
+<span style=color:#969696> (n) </span><br><br>"	"independence<br>
+<span style=color:#969696> [,ɪndɪ'pendəns] </span><br>"
+"noční klub, bar<br>
+<span style=color:#969696> (n) </span><br><br>"	"nightclub<br>
+<span style=color:#969696> ['naɪtklʌb] </span><br>"
+"obklopený, kolem dokola obehnaný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"surrounded<br>
+<span style=color:#969696> [sə'raʊndɪd] </span><br>"
+"oblast<br>
+<span style=color:#969696> (n) </span><br><br>"	"area<br>
+<span style=color:#969696> ['eəriə] </span><br>"
+"obrovský, rozlehlý, velikánský<br>
+<span style=color:#969696> (adj) </span><br><br>"	"huge<br>
+<span style=color:#969696> [hju:dʒ] </span><br>"
+"obyvatelstvo, celkový počet obyvatel<br>
+<span style=color:#969696> (n) </span><br><br>"	"population<br>
+<span style=color:#969696> [,pɒpjʊ'leɪʃn] </span><br>"
+"opatrný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"careful<br>
+<span style=color:#969696> ['keəfl] </span><br>"
+"oranžový<br>
+<span style=color:#969696> (adj) </span><br><br>"	"orange<br>
+<span style=color:#969696> ['ɒrɪndʒ] </span><br>"
+"originálně, původně<br>
+<span style=color:#969696> (adv) </span><br><br>"	"originally<br>
+<span style=color:#969696> [ə'rɪdʒənəlɪ] </span><br>"
+"osoba, která musí dojíždět do zaměstnání<br>
+<span style=color:#969696> (n) </span><br><br>"	"commuter<br>
+<span style=color:#969696> [kə'mju:tə(r)] </span><br>"
+"ovšem, samozřejmě<br>
+<span style=color:#969696> (adv) </span><br><br>"	"of course<br>
+<span style=color:#969696> [ɒv 'kɔ:s] </span><br>"
+"palác<br>
+<span style=color:#969696> (n) </span><br><br>"	"palace<br>
+<span style=color:#969696> ['pæləs] </span><br>"
+"pobřeží<br>
+<span style=color:#969696> (n) </span><br><br>"	"coast<br>
+<span style=color:#969696> [kəʊst] </span><br>"
+"poslední, nejnovější<br>
+<span style=color:#969696> (adj) </span><br><br>"	"latest<br>
+<span style=color:#969696> ['leɪtɪst] </span><br>"
+"potrava, jídlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"food<br>
+<span style=color:#969696> [fu:d] </span><br>"
+"pravdivý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"true<br>
+<span style=color:#969696> [tru:] </span><br>"
+"průmysl<br>
+<span style=color:#969696> (n) </span><br><br>"	"industry<br>
+<span style=color:#969696> ['ɪndəstri] </span><br>"
+"prvotřídní, špičkový<br>
+<span style=color:#969696> (adj) </span><br><br>"	"high-class<br>
+<span style=color:#969696> [,haɪ'klɑ:s] </span><br>"
+"přechod pro chodce<br>
+<span style=color:#969696> (n) </span><br><br>"	"pedestrian crossing<br>
+<span style=color:#969696> [pə'destrɪən krɒsɪŋ] </span><br>"
+"přeplněný, nacpaný (lidmi)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"crowded<br>
+<span style=color:#969696> ['kraʊdɪd] </span><br>"
+"přesnídávka, svačina, malé občerstvení<br>
+<span style=color:#969696> (n) </span><br><br>"	"snacks<br>
+<span style=color:#969696> [snæks] </span><br>"
+"přízvuk<br>
+<span style=color:#969696> (n) </span><br><br>"	"accent<br>
+<span style=color:#969696> ['æksent] </span><br>"
+"původem<br>
+<span style=color:#969696> (adv) </span><br><br>"	"originally<br>
+<span style=color:#969696> [ə'rɪdʒənəlɪ] </span><br>"
+"roční období, sezóna<br>
+<span style=color:#969696> (n) </span><br><br>"	"season<br>
+<span style=color:#969696> ['si:zn] </span><br>"
+"romantický<br>
+<span style=color:#969696> (adj) </span><br><br>"	"romantic<br>
+<span style=color:#969696> [rəʊ'mæntɪk] </span><br>"
+"rozmanitost, různé druhy<br>
+<span style=color:#969696> (n) </span><br><br>"	"variety<br>
+<span style=color:#969696> [və'raɪəti] </span><br>"
+"rukodělné, řemeslné výrobky<br>
+<span style=color:#969696> (n) </span><br><br>"	"handicrafts<br>
+<span style=color:#969696> ['hændɪkrɑ:fts] </span><br>"
+"růžová<br>
+<span style=color:#969696> (adj) </span><br><br>"	"pink<br>
+<span style=color:#969696> [pɪŋk] </span><br>"
+"rybaření; rybolov<br>
+<span style=color:#969696> (n) </span><br><br>"	"fishing<br>
+<span style=color:#969696> ['fɪʃɪŋ] </span><br>"
+"řeka<br>
+<span style=color:#969696> (n) </span><br><br>"	"river<br>
+<span style=color:#969696> ['rivə(r)] </span><br>"
+"říše, království, impérium<br>
+<span style=color:#969696> (n) </span><br><br>"	"empire<br>
+<span style=color:#969696> ['empaɪə(r)] </span><br>"
+"semafor<br>
+<span style=color:#969696> (n) </span><br><br>"	"traffic lights<br>
+<span style=color:#969696> ['træfɪk laɪts] </span><br>"
+"sever<br>
+<span style=color:#969696> (n) </span><br><br>"	"north<br>
+<span style=color:#969696> [nɔ:θ] </span><br>"
+"stovky<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"hundreds<br>
+<span style=color:#969696> ['hʌndrədz] </span><br>"
+"super, skvělý, senza, fajn<br>
+<span style=color:#969696> (adj) </span><br><br>"	"cool<br>
+<span style=color:#969696> [ku:l] </span><br>"
+"svatyně<br>
+<span style=color:#969696> (n) </span><br><br>"	"shrine<br>
+<span style=color:#969696> [ʃraɪn] </span><br>"
+"systém metra<br>
+<span style=color:#969696> (n) </span><br><br>"	"subway system<br>
+<span style=color:#969696> ['sʌbweɪ sɪstəm] </span><br>"
+"tajuplný, záhadný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"mysterious<br>
+<span style=color:#969696> [mɪ'stɪəriəs] </span><br>"
+"tetování<br>
+<span style=color:#969696> (n) </span><br><br>"	"tattoo<br>
+<span style=color:#969696> [tə'tu:] </span><br>"
+"tišší, méně hlučný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"quieter<br>
+<span style=color:#969696> ['kwaɪətə(r)] </span><br>"
+"tradiční<br>
+<span style=color:#969696> (adj) </span><br><br>"	"traditional<br>
+<span style=color:#969696> [trə'dɪʃənl] </span><br>"
+"trh, tržiště (stánky)<br>
+<span style=color:#969696> (n) </span><br><br>"	"market<br>
+<span style=color:#969696> ['mɑ:kɪt] </span><br>"
+"třešeň<br>
+<span style=color:#969696> (n) </span><br><br>"	"cherry<br>
+<span style=color:#969696> ['ʧeri] </span><br>"
+"turistická atrakce<br>
+<span style=color:#969696> (n) </span><br><br>"	"tourist attraction<br>
+<span style=color:#969696> ['tɔ:rɪst ə'trækʃn] </span><br>"
+"údolí<br>
+<span style=color:#969696> (n) </span><br><br>"	"valley<br>
+<span style=color:#969696> ['væli] </span><br>"
+"umělec, výtvarník (malíř,sochař ap.)<br>
+<span style=color:#969696> (n) </span><br><br>"	"artist<br>
+<span style=color:#969696> ['ɑ:tɪst] </span><br>"
+"velkoměsto, megalopole<br>
+<span style=color:#969696> (n) </span><br><br>"	"megacity<br>
+<span style=color:#969696> ['megə,sɪti] </span><br>"
+"veřejná doprava<br>
+<span style=color:#969696> (n) </span><br><br>"	"public transport<br>
+<span style=color:#969696> ['pʌblɪk 'trænspɔ:t] </span><br>"
+"veřejné lázně<br>
+<span style=color:#969696> (n) </span><br><br>"	"public bath<br>
+<span style=color:#969696> [pʌblɪk 'bɑ:θ] </span><br>"
+"vlhký<br>
+<span style=color:#969696> (adj) </span><br><br>"	"humid<br>
+<span style=color:#969696> ['hju:mɪd] </span><br>"
+"vtrhnout, podniknout invazi, napadnout<br>
+<span style=color:#969696> (v) </span><br><br>"	"invade<br>
+<span style=color:#969696> [ɪn'veɪd] </span><br>"
+"východ (světová strana)<br>
+<span style=color:#969696> (n) </span><br><br>"	"east<br>
+<span style=color:#969696> [i:st] </span><br>"
+"východ slunce, svítání<br>
+<span style=color:#969696> (n) </span><br><br>"	"sunrise<br>
+<span style=color:#969696> ['sʌnraɪz] </span><br>"
+"vyrábět, produkovat<br>
+<span style=color:#969696> (v) </span><br><br>"	"produce<br>
+<span style=color:#969696> [prə'dju:s] </span><br>"
+"vzduch, ovzduší<br>
+<span style=color:#969696> (n) </span><br><br>"	"air<br>
+<span style=color:#969696> [eə(r)] </span><br>"
+"západ slunce<br>
+<span style=color:#969696> (n) </span><br><br>"	"sunset<br>
+<span style=color:#969696> ['sʌnset] </span><br>"
+"zboží (~ je)<br>
+<span style=color:#969696> (n) </span><br><br>"	"goods (~ are)<br>
+<span style=color:#969696> [gʊdz] </span><br>"
+"zdvořilý, slušný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"polite<br>
+<span style=color:#969696> [pə'laɪt] </span><br>"
+"zemětřesení<br>
+<span style=color:#969696> (n) </span><br><br>"	"earthquake<br>
+<span style=color:#969696> ['ɜ:θkweɪk] </span><br>"
+"zkušenost, zážitek<br>
+<span style=color:#969696> (n) </span><br><br>"	"experience<br>
+<span style=color:#969696> [ɪk'spɪəriəns] </span><br>"
+"zlato (materiál)<br>
+<span style=color:#969696> (n) </span><br><br>"	"gold<br>
+<span style=color:#969696> [goʊld] </span><br>"
+"změnit<br>
+<span style=color:#969696> (v) </span><br><br>"	"change<br>
+<span style=color:#969696> [ʧeɪndʒ] </span><br>"
+"znečištění, znečišťující látka<br>
+<span style=color:#969696> (n) </span><br><br>"	"pollution<br>
+<span style=color:#969696> [pə'lu:ʃn] </span><br>"
+"železniční síť<br>
+<span style=color:#969696> (n) </span><br><br>"	"railway system<br>
+<span style=color:#969696> ['reɪlweɪ 'sɪstem] </span><br>"
+"bojovat, prát se<br>
+<span style=color:#969696> (v) </span><br><br>"	"fight<br>
+<span style=color:#969696> [faɪt] </span><br>"
+"bota (boty)<br>
+<span style=color:#969696> (n) </span><br><br>"	"shoe (shoes)<br>
+<span style=color:#969696> [ʃu:  (ʃu:z)] </span><br>"
+"boty (vysoké, sportovní, holínky)<br>
+<span style=color:#969696> (n) </span><br><br>"	"boots<br>
+<span style=color:#969696> [bu:t] </span><br>"
+"detektiv<br>
+<span style=color:#969696> (n) </span><br><br>"	"detective<br>
+<span style=color:#969696> [dɪ'tektɪv] </span><br>"
+"dlouhý (vlasy ap.)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"long<br>
+<span style=color:#969696> [lɒŋ] </span><br>"
+"dvojčata<br>
+<span style=color:#969696> (n) </span><br><br>"	"twins<br>
+<span style=color:#969696> [twɪnz] </span><br>"
+"fopady, vlivy, následky<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"effects<br>
+<span style=color:#969696> [ɪ'fekts] </span><br>"
+"gravitace<br>
+<span style=color:#969696> (n) </span><br><br>"	"gravity<br>
+<span style=color:#969696> ['grævəti] </span><br>"
+"herec<br>
+<span style=color:#969696> (n) </span><br><br>"	"actor<br>
+<span style=color:#969696> ['æktə(r)] </span><br>"
+"hezký (o muži) (popis osoby - vzhled)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"handsome<br>
+<span style=color:#969696> ['hænsəm] </span><br>"
+"hezký, pohledný  (o muži - vzhled)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"good-looking<br>
+<span style=color:#969696> [,gʊd'lʊkɪŋ] </span><br>"
+"hluk, rámus<br>
+<span style=color:#969696> (n) </span><br><br>"	"noise<br>
+<span style=color:#969696> [nɔɪz] </span><br>"
+"hnědá<br>
+<span style=color:#969696> (adj) </span><br><br>"	"brown<br>
+<span style=color:#969696> [braʊn] </span><br>"
+"hvězda<br>
+<span style=color:#969696> (n) </span><br><br>"	"star<br>
+<span style=color:#969696> [stɑ:(r)] </span><br>"
+"chuť, příchuť, ochutnávání<br>
+<span style=color:#969696> (n) </span><br><br>"	"taste<br>
+<span style=color:#969696> [teɪst] </span><br>"
+"identický, shodný, stejný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"identical<br>
+<span style=color:#969696> [aɪ'dentɪkl] </span><br>"
+"kabát, plášť, sako, bunda<br>
+<span style=color:#969696> (n) </span><br><br>"	"coat<br>
+<span style=color:#969696> [kəʊt] </span><br>"
+"klobouk, čepice<br>
+<span style=color:#969696> (n) </span><br><br>"	"hat<br>
+<span style=color:#969696> [hæt] </span><br>"
+"kóje, buňka, oddělená část<br>
+<span style=color:#969696> (n) </span><br><br>"	"compartment<br>
+<span style=color:#969696> [kəm'pɑ:tmənt] </span><br>"
+"kořeněný, ostrý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"spicy<br>
+<span style=color:#969696> [spaɪsɪ] </span><br>"
+"kost<br>
+<span style=color:#969696> (n) </span><br><br>"	"bone<br>
+<span style=color:#969696> [bəʊn] </span><br>"
+"kraťasy, šortky, trenýrky<br>
+<span style=color:#969696> (n) </span><br><br>"	"shorts (pl)<br>
+<span style=color:#969696> [ʃɔ:ts] </span><br>"
+"krátký, malý, nízký<br>
+<span style=color:#969696> (adj) </span><br><br>"	"short<br>
+<span style=color:#969696> [ʃɔ:t] </span><br>"
+"kroužit kolem, obíhat kolem (po oběžné dráze)<br>
+<span style=color:#969696> (v) </span><br><br>"	"orbit<br>
+<span style=color:#969696> ['ɔ:bɪt] </span><br>"
+"kyslík<br>
+<span style=color:#969696> (n) </span><br><br>"	"oxygen<br>
+<span style=color:#969696> ['ɒksɪdʒən] </span><br>"
+"laboratoř<br>
+<span style=color:#969696> (n) </span><br><br>"	"laboratory (informal lab)<br>
+<span style=color:#969696> [lə'bɒrətri] </span><br>"
+"lžíce<br>
+<span style=color:#969696> (n) </span><br><br>"	"spoon<br>
+<span style=color:#969696> [spu:n] </span><br>"
+"modrá<br>
+<span style=color:#969696> (n) </span><br><br>"	"blue<br>
+<span style=color:#969696> [blu:] </span><br>"
+"nástroj, pomůcka, přístroj<br>
+<span style=color:#969696> (n) </span><br><br>"	"instrument<br>
+<span style=color:#969696> ['ɪnstrəmənt] </span><br>"
+"neobvyklý, neobyčejný, zvláštní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"unusual<br>
+<span style=color:#969696> [ʌn'ju:ʒuəl] </span><br>"
+"neuvěřitelný (skvělý, úžasný)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"incredible<br>
+<span style=color:#969696> [ɪn'kredəbl] </span><br>"
+"Nevadí. To nic. (promíjín co se stalo)<br>
+<span style=color:#969696></span><br><br>"	"Never mind.<br>
+<span style=color:#969696> ['nevər maɪnd] </span><br>"
+"omáčka<br>
+<span style=color:#969696> (n) </span><br><br>"	"sauce<br>
+<span style=color:#969696> [sɔ:s] </span><br>"
+"ovlivnit, postihnout, mít vliv (nikotin, sucho ap.)<br>
+<span style=color:#969696> (v) </span><br><br>"	"affect<br>
+<span style=color:#969696> [ə'fekt] </span><br>"
+"pár, dvojice<br>
+<span style=color:#969696> (n) </span><br><br>"	"couple<br>
+<span style=color:#969696> ['kʌpl] </span><br>"
+"pěkná, hezká, krásná (ne o muži) (popis osoby - vzhled)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"pretty<br>
+<span style=color:#969696> ['prɪti] </span><br>"
+"planeta<br>
+<span style=color:#969696> (n) </span><br><br>"	"planet<br>
+<span style=color:#969696> ['plænɪt] </span><br>"
+"plechovka, konzerva (sardinek)<br>
+<span style=color:#969696> (n) </span><br><br>"	"tin (of sardines)<br>
+<span style=color:#969696> [,tɪn əv sɑ:'di:n] </span><br>"
+"plout (po vodě), vznášet se (ve vzduchu)<br>
+<span style=color:#969696> (v) </span><br><br>"	"float<br>
+<span style=color:#969696> [floʊt] </span><br>"
+"pod (čím)<br>
+<span style=color:#969696> (prep) </span><br><br>"	"below<br>
+<span style=color:#969696> [bɪ'ləʊ] </span><br>"
+"podmínky<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"conditions<br>
+<span style=color:#969696> [kən'dɪʃənz] </span><br>"
+"pokus<br>
+<span style=color:#969696> (n) </span><br><br>"	"experiment<br>
+<span style=color:#969696> [ɪk'sperɪmənt] </span><br>"
+"PRAVDA, skutečnost, fakt<br>
+<span style=color:#969696> (n) </span><br><br>"	"truth<br>
+<span style=color:#969696> [tru:θ] </span><br>"
+"přenosný počítač, notebook<br>
+<span style=color:#969696> (n) </span><br><br>"	"laptop<br>
+<span style=color:#969696> ['læptɒp] </span><br>"
+"připevněný, připojený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"attached<br>
+<span style=color:#969696> [ə'tæʧt] </span><br>"
+"příprava, přípravná fáze (před hlavní činností)<br>
+<span style=color:#969696> (n) </span><br><br>"	"preparation<br>
+<span style=color:#969696> [,prepə'reɪʃn] </span><br>"
+"purpurový, fialový<br>
+<span style=color:#969696> (adj) </span><br><br>"	"purple<br>
+<span style=color:#969696> ['pɜ:pl] </span><br>"
+"původ<br>
+<span style=color:#969696> (n) </span><br><br>"	"origin<br>
+<span style=color:#969696> ['ɒrɪdʒɪn] </span><br>"
+"románek, milostný poměr/ vztah<br>
+<span style=color:#969696> (n) </span><br><br>"	"romance<br>
+<span style=color:#969696> ['rəʊmæns] </span><br>"
+"rozhodnout (se)<br>
+<span style=color:#969696> (v) </span><br><br>"	"decide<br>
+<span style=color:#969696> [dɪ'saɪd] </span><br>"
+"soutěžit<br>
+<span style=color:#969696> (v) </span><br><br>"	"compete<br>
+<span style=color:#969696> [kəm'pi:t] </span><br>"
+"sportovní / běžecké boty<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"trainers<br>
+<span style=color:#969696> ['treɪnəz] </span><br>"
+"stát se, přihodit se (událost)<br>
+<span style=color:#969696> (v) </span><br><br>"	"happen<br>
+<span style=color:#969696> ['hæpən] </span><br>"
+"statní svátek, den pracovního volna<br>
+<span style=color:#969696> (n) </span><br><br>"	"bank holiday<br>
+<span style=color:#969696> [,bæŋk 'hɒlədəɪ] </span><br>"
+"stavět, postavit<br>
+<span style=color:#969696> (v) </span><br><br>"	"build<br>
+<span style=color:#969696> [bɪld] </span><br>"
+"sukně<br>
+<span style=color:#969696> (n) </span><br><br>"	"skirt<br>
+<span style=color:#969696> [skɜ:t] </span><br>"
+"sval<br>
+<span style=color:#969696> (n) </span><br><br>"	"muscle<br>
+<span style=color:#969696> ['mʌsl] </span><br>"
+"světlovlasý, plavovlasý, blond (vlasy)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"blonde (AmE blond)<br>
+<span style=color:#969696> [blɒnd] </span><br>"
+"šátek, šála, přehoz kolem ramen<br>
+<span style=color:#969696> (n) </span><br><br>"	"scarf<br>
+<span style=color:#969696> [skɑ:f] </span><br>"
+"šaty (dámské)<br>
+<span style=color:#969696> (n) </span><br><br>"	"dress<br>
+<span style=color:#969696> [dres] </span><br>"
+"tmavý, temný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"dark<br>
+<span style=color:#969696> [dɑ:k] </span><br>"
+"tričko (s krátkými rukávy)<br>
+<span style=color:#969696> (n) </span><br><br>"	"T-shirt<br>
+<span style=color:#969696> ['ti:ʃɜ:t] </span><br>"
+"umývání nádobí<br>
+<span style=color:#969696> (n) </span><br><br>"	"washing-up<br>
+<span style=color:#969696> ['wɒʃɪŋ ʌp] </span><br>"
+"velmi podobný, stejný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"alike<br>
+<span style=color:#969696> [ə'laɪk] </span><br>"
+"vesmír (všeobecně)<br>
+<span style=color:#969696> (n) </span><br><br>"	"the universe<br>
+<span style=color:#969696> [ðə 'ju:nɪvɜ:s] </span><br>"
+"vyvíjet, vytvářet, rozvíjet (nový výrobek ap.)<br>
+<span style=color:#969696> (v) </span><br><br>"	"develop<br>
+<span style=color:#969696> [dɪ'veləp] </span><br>"
+"výzkum, bádání<br>
+<span style=color:#969696> (n) </span><br><br>"	"research<br>
+<span style=color:#969696> [rɪ'sɜ:tʃ] </span><br>"
+"zapnout (rádio, lampu ap.)<br>
+<span style=color:#969696> (v) </span><br><br>"	"switch on<br>
+<span style=color:#969696> [swɪʧ 'ɒn] </span><br>"
+"zásoby<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"supplies<br>
+<span style=color:#969696> [sə'plaɪz] </span><br>"
+"země(koule), svět<br>
+<span style=color:#969696> (n) </span><br><br>"	"Earth<br>
+<span style=color:#969696> [ɜ:θ] </span><br>"
+"zpráva, vzkaz<br>
+<span style=color:#969696> (n) </span><br><br>"	"message<br>
+<span style=color:#969696> ['mesɪdʒ] </span><br>"
+"barevný, barvitý, pestrý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"colorful<br>
+<span style=color:#969696> ['kʌləfl] </span><br>"
+"batoh<br>
+<span style=color:#969696> (n) </span><br><br>"	"backpack<br>
+<span style=color:#969696> ['bækpæk] </span><br>"
+"bouřka, bouře<br>
+<span style=color:#969696> (n) </span><br><br>"	"storm<br>
+<span style=color:#969696> [stɔ:m] </span><br>"
+"brzy, zanedlouho<br>
+<span style=color:#969696> (adv) </span><br><br>"	"soon<br>
+<span style=color:#969696> [su:n] </span><br>"
+"budoucnost<br>
+<span style=color:#969696> (n) </span><br><br>"	"future<br>
+<span style=color:#969696> ['fju:ʧə(r)] </span><br>"
+"bunda, sako, kabátek<br>
+<span style=color:#969696> (n) </span><br><br>"	"jacket<br>
+<span style=color:#969696> ['dʒækɪt] </span><br>"
+"hrom, zahřmění<br>
+<span style=color:#969696> (n) </span><br><br>"	"thunder<br>
+<span style=color:#969696> ['θʌndə(r)] </span><br>"
+"jednoduchý, prostý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"simple<br>
+<span style=color:#969696> ['sɪmpl] </span><br>"
+"kolemjdoucí<br>
+<span style=color:#969696> (n) </span><br><br>"	"passer-by (pl. passers-by)<br>
+<span style=color:#969696> [,pa:sə'baɪ (,pɑ:səz'baɪ)] </span><br>"
+"kufr, cestovní zavazadlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"suitcase<br>
+<span style=color:#969696> ['su:tkeɪs] </span><br>"
+"kýchat<br>
+<span style=color:#969696> (v) </span><br><br>"	"sneeze<br>
+<span style=color:#969696> [sni:z] </span><br>"
+"lézt, stoupat, šplhat (po horách)<br>
+<span style=color:#969696> (v) </span><br><br>"	"climb<br>
+<span style=color:#969696> [klaɪm] </span><br>"
+"lidová píseň, píseň k táboráku<br>
+<span style=color:#969696> (n) </span><br><br>"	"folk song<br>
+<span style=color:#969696> ['fəʊk sɒŋ] </span><br>"
+"lidský<br>
+<span style=color:#969696> (adj) </span><br><br>"	"human<br>
+<span style=color:#969696> ['hju:mən] </span><br>"
+"mírový, poklidný; tichý (místo)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"peaceful<br>
+<span style=color:#969696> [pi:sfl] </span><br>"
+"najmout, zjednat si (pracovníka ap.), pronajmout (věc)<br>
+<span style=color:#969696> (v) </span><br><br>"	"hire<br>
+<span style=color:#969696> ['haɪə(r)] </span><br>"
+"nést, nosit<br>
+<span style=color:#969696> (v) </span><br><br>"	"carry<br>
+<span style=color:#969696> ['kærɪ] </span><br>"
+"očekávaný, něco má nastat<br>
+<span style=color:#969696> (adj) </span><br><br>"	"due<br>
+<span style=color:#969696> [dju:] </span><br>"
+"odejít do důchodu<br>
+<span style=color:#969696> (v) </span><br><br>"	"retire<br>
+<span style=color:#969696> [rɪ'taɪə(r)] </span><br>"
+"padat, spadnout, klesnout, propadnout se<br>
+<span style=color:#969696> (v) </span><br><br>"	"fall<br>
+<span style=color:#969696> [fɔ:l] </span><br>"
+"perfektní, dokonalý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"perfect<br>
+<span style=color:#969696> [pə:'fɪkt] </span><br>"
+"piknik<br>
+<span style=color:#969696> (n) </span><br><br>"	"picnic<br>
+<span style=color:#969696> ['pɪknɪk] </span><br>"
+"plánovat, zamýšlet<br>
+<span style=color:#969696> (v) </span><br><br>"	"plan<br>
+<span style=color:#969696> [plæn] </span><br>"
+"platový postup, zvýšení platu<br>
+<span style=color:#969696> (n) </span><br><br>"	"pay rise<br>
+<span style=color:#969696> ['peɪ raɪz] </span><br>"
+"podcast<br>
+<span style=color:#969696> (n) </span><br><br>"	"podcast<br>
+<span style=color:#969696> ['pɒdkɑ:st] </span><br>"
+"pohostinnost, pohoštění<br>
+<span style=color:#969696> (n) </span><br><br>"	"hospitality<br>
+<span style=color:#969696> [,hɒspɪ'tælɪti] </span><br>"
+"políbit, líbat<br>
+<span style=color:#969696> (v) </span><br><br>"	"kiss<br>
+<span style=color:#969696> [kɪs] </span><br>"
+"pozdní večeře (poslední jídlo dne)<br>
+<span style=color:#969696> (n) </span><br><br>"	"supper<br>
+<span style=color:#969696> ['sʌpər] </span><br>"
+"pyramida<br>
+<span style=color:#969696> (n) </span><br><br>"	"pyramid<br>
+<span style=color:#969696> ['pɪrəmɪd] </span><br>"
+"safari, lovecká výprava<br>
+<span style=color:#969696> (n) </span><br><br>"	"safari<br>
+<span style=color:#969696> [sə'fɑ:ri] </span><br>"
+"soulad, harmonie<br>
+<span style=color:#969696> (n) </span><br><br>"	"harmony<br>
+<span style=color:#969696> ['hɑ:məni] </span><br>"
+"stresující (situace, práce ap.)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"stressful<br>
+<span style=color:#969696> ['stresfl] </span><br>"
+"svoboda, volnost<br>
+<span style=color:#969696> (n) </span><br><br>"	"freedom<br>
+<span style=color:#969696> ['fri:dəm] </span><br>"
+"umývat nádobí<br>
+<span style=color:#969696> (v) </span><br><br>"	"do the washing<br>
+<span style=color:#969696> [du: ðə 'wɒʃɪŋ] </span><br>"
+"upustit<br>
+<span style=color:#969696> (v) </span><br><br>"	"drop<br>
+<span style=color:#969696> [drɒp] </span><br>"
+"usmívat se<br>
+<span style=color:#969696> (v) </span><br><br>"	"smile<br>
+<span style=color:#969696> [smaɪl] </span><br>"
+"vycházková hůl<br>
+<span style=color:#969696> (n) </span><br><br>"	"walking stick<br>
+<span style=color:#969696> ['wɔ:kɪŋ stɪk] </span><br>"
+"výletní/ zábavní plavba<br>
+<span style=color:#969696> (n) </span><br><br>"	"cruise<br>
+<span style=color:#969696> [kru:z] </span><br>"
+"vyrůst, dospívat<br>
+<span style=color:#969696> (v) </span><br><br>"	"grow up<br>
+<span style=color:#969696> [grəʊ 'ʌp] </span><br>"
+"vystrašený, vyděšený<br>
+<span style=color:#969696> (adj) </span><br><br>"	"frightened<br>
+<span style=color:#969696> ['fraɪtnd] </span><br>"
+"Wales<br>
+<span style=color:#969696> (n) </span><br><br>"	"Wales<br>
+<span style=color:#969696> [weɪlz] </span><br>"
+"website, místo na webu<br>
+<span style=color:#969696> (n) </span><br><br>"	"website<br>
+<span style=color:#969696> ['websaɪt] </span><br>"
+"známka (chování ap.), projev<br>
+<span style=color:#969696> (n) </span><br><br>"	"sign<br>
+<span style=color:#969696> [saɪn] </span><br>"
+"akr (míra plochy)<br>
+<span style=color:#969696> (n) </span><br><br>"	"acre<br>
+<span style=color:#969696> ['eɪkə(r)] </span><br>"
+"akt, jednání (divadelní)<br>
+<span style=color:#969696> (n) </span><br><br>"	"act (of play)<br>
+<span style=color:#969696> [ækt] </span><br>"
+"Austrálie<br>
+<span style=color:#969696> (n) </span><br><br>"	"Australia<br>
+<span style=color:#969696> [ɒ'streɪlɪə] </span><br>"
+"balení (zavazadel)<br>
+<span style=color:#969696> (n) </span><br><br>"	"packing<br>
+<span style=color:#969696> ['pækɪŋ] </span><br>"
+"báseň<br>
+<span style=color:#969696> (n) </span><br><br>"	"poem<br>
+<span style=color:#969696> ['pəʊɪm] </span><br>"
+"bezpečnost, zabezpečení, ostraha<br>
+<span style=color:#969696> (n) </span><br><br>"	"security<br>
+<span style=color:#969696> [sɪ'kjʊərəti] </span><br>"
+"bílý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"white<br>
+<span style=color:#969696> [waɪt] </span><br>"
+"bláto, bahno<br>
+<span style=color:#969696> (n) </span><br><br>"	"mud<br>
+<span style=color:#969696> [mʌd] </span><br>"
+"Brazílie<br>
+<span style=color:#969696> (n) </span><br><br>"	"Brazil<br>
+<span style=color:#969696> [brə'zɪl] </span><br>"
+"cesta (někam za určitým účelem), výlet<br>
+<span style=color:#969696> (n) </span><br><br>"	"trip<br>
+<span style=color:#969696> [trɪp] </span><br>"
+"cider (kvašený jablečný mošt)<br>
+<span style=color:#969696> (n) </span><br><br>"	"cider<br>
+<span style=color:#969696> ['saɪdə(r)] </span><br>"
+"Čína<br>
+<span style=color:#969696> (n) </span><br><br>"	"China<br>
+<span style=color:#969696> ['ʧaɪnə] </span><br>"
+"dav, zástup<br>
+<span style=color:#969696> (n) </span><br><br>"	"crowd<br>
+<span style=color:#969696> [kraʊd] </span><br>"
+"definitivní, konečný, s rozhodnou platností<br>
+<span style=color:#969696> (adj) </span><br><br>"	"definite<br>
+<span style=color:#969696> ['defɪnət] </span><br>"
+"dodávkové auto, dodávka<br>
+<span style=color:#969696> (n) </span><br><br>"	"van<br>
+<span style=color:#969696> [væn] </span><br>"
+"hlučný<br>
+<span style=color:#969696> (adj) </span><br><br>"	"noisy<br>
+<span style=color:#969696> ['nɔɪzi] </span><br>"
+"Itálie<br>
+<span style=color:#969696> (n) </span><br><br>"	"Italy<br>
+<span style=color:#969696> ['ɪtəli] </span><br>"
+"ještě ne (v záporných větách)<br>
+<span style=color:#969696> (adv) </span><br><br>"	"yet<br>
+<span style=color:#969696> [jet] </span><br>"
+"jeviště, pódium<br>
+<span style=color:#969696> (n) </span><br><br>"	"stage<br>
+<span style=color:#969696> [steɪdʒ] </span><br>"
+"kolega, partner<br>
+<span style=color:#969696> (n) </span><br><br>"	"colleague<br>
+<span style=color:#969696> ['kɒli:g] </span><br>"
+"koleno (část těla)<br>
+<span style=color:#969696> (n) </span><br><br>"	"knee<br>
+<span style=color:#969696> [ni:] </span><br>"
+"nálada, atmosféra<br>
+<span style=color:#969696> (n) </span><br><br>"	"atmosphere<br>
+<span style=color:#969696> ['ætməsfɪə(r)] </span><br>"
+"nástupiště<br>
+<span style=color:#969696> (n) </span><br><br>"	"platform<br>
+<span style=color:#969696> ['plætfɔ:m] </span><br>"
+"návštěvníci festivalu<br>
+<span style=color:#969696> (n pl) </span><br><br>"	"festival goers<br>
+<span style=color:#969696> ['festɪvl 'gəʊəz] </span><br>"
+"nepřetržitý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"continual<br>
+<span style=color:#969696> [kən'tɪnjuəl] </span><br>"
+"nesmysl, hovadina, blbost<br>
+<span style=color:#969696> (n) </span><br><br>"	"rubbish<br>
+<span style=color:#969696> ['rʌbɪʃ] </span><br>"
+"neuspět, propadnout, selhat<br>
+<span style=color:#969696> (v) </span><br><br>"	"fail<br>
+<span style=color:#969696> [feɪl] </span><br>"
+"odbavit se před letem<br>
+<span style=color:#969696> (v) </span><br><br>"	"check in<br>
+<span style=color:#969696> [ʧek 'ɪn] </span><br>"
+"paměť, vzpomínka<br>
+<span style=color:#969696> (n) </span><br><br>"	"memory<br>
+<span style=color:#969696> ['meməri] </span><br>"
+"porce, kus, kousek<br>
+<span style=color:#969696> (n) </span><br><br>"	"piece<br>
+<span style=color:#969696> [pi:s] </span><br>"
+"potápění s dýchacím přístrojem<br>
+<span style=color:#969696> (n) </span><br><br>"	"scuba diving<br>
+<span style=color:#969696> ['sku:bə 'daɪvɪŋ] </span><br>"
+"právě, zrovna<br>
+<span style=color:#969696> (adv) </span><br><br>"	"just<br>
+<span style=color:#969696> [dʒʌst] </span><br>"
+"přihlásit se k pobytu, ubytovat se (fráz.sloveso)<br>
+<span style=color:#969696> (n) </span><br><br>"	"check in (~ at the hotel)<br>
+<span style=color:#969696> [ʧek ɪn] </span><br>"
+"přihlásit se k pobytu, ubytovat se, odbavit, zaregistrovat se (fráz.sloveso)<br>
+<span style=color:#969696> (n) </span><br><br>"	"check in (~ at the hotel)<br>
+<span style=color:#969696> [ʧek ɪn] </span><br>"
+"příruční zavazadlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"hand luggage<br>
+<span style=color:#969696> ['hænd lʌgɪdʒ] </span><br>"
+"rockový koncert<br>
+<span style=color:#969696> (n) </span><br><br>"	"rock concert<br>
+<span style=color:#969696> [rɒk 'kɒnsət] </span><br>"
+"řada, fronta<br>
+<span style=color:#969696> (n) </span><br><br>"	"queue<br>
+<span style=color:#969696> [kju:] </span><br>"
+"Řecko<br>
+<span style=color:#969696> (n) </span><br><br>"	"Greece<br>
+<span style=color:#969696> [gri:s] </span><br>"
+"slavnost, svátek, festival<br>
+<span style=color:#969696> (n) </span><br><br>"	"festival<br>
+<span style=color:#969696> ['festɪvl] </span><br>"
+"slogan, reklamní heslo<br>
+<span style=color:#969696> (n) </span><br><br>"	"slogan<br>
+<span style=color:#969696> ['sləʊgən] </span><br>"
+"sluneční svit / záře<br>
+<span style=color:#969696> (n) </span><br><br>"	"sunshine<br>
+<span style=color:#969696> ['sʌnʃaɪn] </span><br>"
+"smrt<br>
+<span style=color:#969696> (n) </span><br><br>"	"death<br>
+<span style=color:#969696> [deθ] </span><br>"
+"Spojené státy<br>
+<span style=color:#969696> (n) </span><br><br>"	"the US<br>
+<span style=color:#969696> [ðə ju'es] </span><br>"
+"stan<br>
+<span style=color:#969696> (n) </span><br><br>"	"tent<br>
+<span style=color:#969696> [tent] </span><br>"
+"super, parádní, skvělý, brilantní<br>
+<span style=color:#969696> (adj) </span><br><br>"	"brilliant<br>
+<span style=color:#969696> ['brɪliənt] </span><br>"
+"tabule s odlety letadel / s odjezdy vlaků<br>
+<span style=color:#969696> (n) </span><br><br>"	"departures board<br>
+<span style=color:#969696> [dɪ'pɑ:ʧəz ,bɔ:d] </span><br>"
+"taxi<br>
+<span style=color:#969696> (n) </span><br><br>"	"taxi (AmE cab)<br>
+<span style=color:#969696> ['tæksi (kæb)] </span><br>"
+"týkat se něčeho, vztahovat se k něčemu<br>
+<span style=color:#969696> (v) </span><br><br>"	"refer to<br>
+<span style=color:#969696> [rɪ'fɜ: tə:] </span><br>"
+"účinkující, umělec, představitel<br>
+<span style=color:#969696> (n) </span><br><br>"	"performer<br>
+<span style=color:#969696> [pə'fɔ:mə(r)] </span><br>"
+"událost venku, pod širým nebem<br>
+<span style=color:#969696> (n) </span><br><br>"	"open-air<br>
+<span style=color:#969696> [,əʊpən 'eə(r)] </span><br>"
+"úspory, našetřené peníze<br>
+<span style=color:#969696> (n) </span><br><br>"	"savings<br>
+<span style=color:#969696> ['seɪvɪŋz] </span><br>"
+"Velká Británie<br>
+<span style=color:#969696> (n) </span><br><br>"	"Great Britain<br>
+<span style=color:#969696> [,greɪt 'brɪtn] </span><br>"
+"velké letadlo, jumbo jet<br>
+<span style=color:#969696> (n) </span><br><br>"	"jumbo jet<br>
+<span style=color:#969696> [,dʒʌmbəʊ 'dʒet] </span><br>"
+"vůbec, nikdy (v záporu)<br>
+<span style=color:#969696> (adv) </span><br><br>"	"ever<br>
+<span style=color:#969696> ['evər] </span><br>"
+"vycházet (s někým) dobře<br>
+<span style=color:#969696> (v) </span><br><br>"	"get on (well with sb)<br>
+<span style=color:#969696> [get ɒn ('wel wið)] </span><br>"
+"vycházet s (s kým), dařit se (s čím)<br>
+<span style=color:#969696> (v) </span><br><br>"	"get on (well) with (sb/sth)<br>
+<span style=color:#969696> [get ɒn (wel) wɪð] </span><br>"
+"vyjádřit, vyslovit (názor ap.)<br>
+<span style=color:#969696> (v) </span><br><br>"	"express<br>
+<span style=color:#969696> [ɪk'spres] </span><br>"
+"vytisknout, tisknout<br>
+<span style=color:#969696> (v) </span><br><br>"	"print<br>
+<span style=color:#969696> [prɪnt] </span><br>"
+"zavazadlo<br>
+<span style=color:#969696> (n) </span><br><br>"	"luggage (AmE baggage)<br>
+<span style=color:#969696> ['lʌgɪdʒ ('bægɪdʒ)] </span><br>"
+"zklamaný (čím, kým)<br>
+<span style=color:#969696> (adj) </span><br><br>"	"disappointed<br>
+<span style=color:#969696> [,dɪsə'poɪntɪd] </span><br>"
+"zúčastnit se, chodit (do školy/ na hodiny/ na kurz)<br>
+<span style=color:#969696> (v) </span><br><br>"	"attend (school/classes/a course)<br>
+<span style=color:#969696> [ə'tend] </span><br>"
+"zvednout, zdvihnout  (dítě,hlavu, hladina ap.)<br>
+<span style=color:#969696> (v) </span><br><br>"	"rise<br>
+<span style=color:#969696> [raɪz] </span><br>"
+"žlutý<br>
+<span style=color:#969696> (adj) </span><br><br>"	"yellow<br>
+<span style=color:#969696> ['jeləʊ] </span><br>"

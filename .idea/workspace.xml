@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ceb475b2-958d-4fb9-800e-4d0dfdce5771" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/02-Flash-Card-App.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.download/CZENG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.download/HEADWAY.apkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.download/anki_sql_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.download/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.download/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.download/txt_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/grandmother/000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/grandmother/000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/grandmother/000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/grandmother/000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/grandmother/000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/picture_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw_data/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw_data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/testing_data/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/vocabulary_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,24 +33,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zdebar"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zdebar/02-Flash-Card-App.git",
+    "accountId": "09fb180a-3b5f-471e-aa2c-734cab7e1788"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2hHTTlQxYrkbVyTDaNLSwlXbXrX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Active/02-Flash-Card-App/data/raw_data"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Active\02-Flash-Card-App\data\raw_data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Active\02-Flash-Card-App\data\testing_data" />
+      <recent name="D:\Active\02-Flash-Card-App\.download" />
       <recent name="D:\Active\02-Flash-Card-App" />
     </key>
   </component>
@@ -59,5 +94,19 @@
       <updated>1717250012944</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

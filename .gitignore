@@ -1,6 +1,3 @@
-# created by virtualenv automatically
 .venv/
-
-# Ignore the entire .idea folder
 .idea/
 
